@@ -1,0 +1,3285 @@
+Number,Priority,Short description,Configuration item,Created,Target Date,Completion Date,Business elapsed time,Actual elapsed time,Work Notes Log,Assignment group,Assigned to
+INC14623151,P16,"IQVIA Translation Platform Operations - Application Issue - Álvarez,Lucas (1062953)",Translation Services,2024-02-08 18:22,2024-02-12 18:22,2024-02-08 22:52,16250,16250,"08-Feb-2024 10:52:51 PM - Kottam,Sreekanth (Work Notes)
+#Issue# < vendor is having issue with memoq project >
+#Resolution# < the issue has been resolved from user end and confirmed to close the ticket. hence, closing the ticket. >
+
+08-Feb-2024 06:34:39 PM - Kottam,Sreekanth (Work Notes)
+#Working on# < to fix the issue >
+
+08-Feb-2024 06:33:20 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+08-Feb-2024 06:22:02 PM - Álvarez,Lucas (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14615363,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - GIRGIS,Sarah (1079220)",Machine Translation Portal Prod,2024-02-06 17:11,2024-02-08 17:11,2024-02-06 20:24,11604,11604,"06-Feb-2024 09:54:37 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user needs MTP access>
+#Resolution# <we had advised to user  and given proper link to raise a ticket>
+MTP Linguamatic portal. Kindly raise the VIA request for the MTP portal access.
+Here is the VIA link for MTP access: https://support.iqvia.com/via?id=sc_cat_item&sys_id=ca312578dbc2c910214a87c813961961
+
+06-Feb-2024 07:10:55 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+06-Feb-2024 07:00:41 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+06-Feb-2024 06:41:14 AM - GIRGIS,Sarah (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14605716,P16,"IQVIA Translation Platform Operations - Application Issue - Basurto,Gisella (1172331)",Translation Services,2024-02-02 17:48,2024-02-06 17:48,2024-02-07 1:31,20832,20832,"06-Feb-2024 03:01:10 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# Hello, Could you please give access to memoQ to these new vendors?:| vedranorlic@gmail.com | berta.montagut@gmail.com
+| Kuno@oct.zaq.ne.jp | nikki.white.translator@gmail.com
+#Resolution# # As per request MemoQ Vendor access has been provided to below vendor's (Associated with below Registered email ID's)
+vedranorlic@gmail.com - Vedran Orlic - P002734
+berta.montagut@outlook.com - Berta Montagut - P002733 
+Kuno@oct.zaq.ne.jp - Tomoyuki Kuno - P002735 
+nikki.white.translator@gmail.com - Nikki White - P002731
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+06-Feb-2024 02:44:10 PM - S Annigeri,Shivashankar (Work Notes)
+#Workiingon# Vendor id is registered with different id in XTRF  FYI 
+berta.montagut@outlook.com - Berta Montagut - P002733 instead of berta.montagut@gmail.com
+
+02-Feb-2024 01:05:47 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# We are working with vendor creation task , Will update back once its completed
+
+02-Feb-2024 10:00:40 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+02-Feb-2024 07:22:37 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+02-Feb-2024 07:22:07 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+02-Feb-2024 07:18:34 AM - Basurto,Gisella (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14640675,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Nishimura,Soma (1127184)",Machine Translation Portal Prod,2024-02-15 15:12,2024-02-19 15:12,2024-02-15 15:42,1835,1835,"15-Feb-2024 05:12:52 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Error occurs when translating. a file. When the translation was successful the file that was completed is corrupted.
+#Resolution#  After clearing the temp files/cookies form web browser MTP Access working normal and dictionaries addition issue also got resolved 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+15-Feb-2024 04:49:55 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+15-Feb-2024 04:49:27 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+15-Feb-2024 04:42:18 AM - Nishimura,Soma (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14661964,P16,ca2stmssql01p application service issue : IVP(Critical),Translation Services,2024-02-22 18:37,2024-02-26 18:37,2024-02-22 21:31,2593,2593,"22-Feb-2024 11:01:20 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <ca2stmssql01p application service issue : IVP(Critical)>
+#Resolution# <IVP request not completed for the request ""71590235-c2e2-4323-a3fa-2f824773ffa2""  due to  the reason No entries found for the Xpaths and user has to resubmit the request again>
+
+22-Feb-2024 08:50:57 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <IVP request not completed for the request ""71590235-c2e2-4323-a3fa-2f824773ffa2""  due to  the reason No entries found for the Xpaths.>
+
+22-Feb-2024 08:14:03 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+22-Feb-2024 08:12:38 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy,updated CI and Task tag>
+
+22-Feb-2024 08:07:44 AM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: ca2stmssql01p application service issue : IVP(Critical)
+Started At: Thu Feb 22 2024 05:07:22 GMT-0800 (PST)
+Configuration Item: ca2stmssql01p
+Application: Q-IVP-Service
+Object: ca2stmssql01p
+Instance: ca2stmssql01p::IVP(Critical)::2/22/2024::RuleQC2
+Sourcegroup: OrionAPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d7470afd206c5761d62b92"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d7470afd206c5761d62b92/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/3d024930b2472de9"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14600813,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Joshi,Sneha (1032081)",Machine Translation Portal Prod,2024-02-01 10:24,2024-02-05 10:24,2024-02-01 17:09,24301,24301,"01-Feb-2024 05:09:08 PM - A,Vaishnavi (Work Notes)
+#Issue# <User requested for translated document>
+#Resolution# <User requested for Italian to English translation for the attached document. We have shared the same on MS Teams. Kindly try the translation in MTP translation portal in future. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+01-Feb-2024 10:55:29 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+01-Feb-2024 10:53:45 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and tasktag has been updated>
+
+01-Feb-2024 10:24:08 AM - Joshi,Sneha (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14638648,P16,ca2stmssql01p application service issue : IVP(Critical),Translation Services,2024-02-14 21:15,2024-02-16 21:15,2024-02-15 4:03,24455,24455,"14-Feb-2024 05:33:25 PM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <IVP request not completed for the request ""4934eafe-d868-4ca1-b027-1272890be31f""  due to  the reason No entries found for the Xpaths><
+#Resolution# <user has to resubmit the request again>
+
+14-Feb-2024 11:03:25 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+14-Feb-2024 11:02:42 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+14-Feb-2024 10:45:50 AM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: ca2stmssql01p application service issue : IVP(Critical)
+Started At: Wed Feb 14 2024 07:45:27 GMT-0800 (PST)
+Configuration Item: ca2stmssql01p
+Application: Q-IVP-Service
+Object: ca2stmssql01p
+Instance: ca2stmssql01p::IVP(Critical)::2/14/2024::RuleQC2
+Sourcegroup: OrionAPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65cce017604f0429c011813b"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65cce017604f0429c011813b/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/6fd96a4456fff3ab"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14639796,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Baba,Miho (1031452)",Translation Services,2024-02-15 8:17,2024-02-19 8:17,2024-02-15 14:13,21377,21377,"15-Feb-2024 03:43:55 AM - Kottam,Sreekanth (Work Notes)
+#Issue# < user requested for access removal >
+#Resolution# < user has given other user id by mistake, so we have removed the user from xtrf client portal. hence, closing the ticket >
+
+14-Feb-2024 10:29:21 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# < to remove the user access >
+
+14-Feb-2024 09:52:44 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+14-Feb-2024 09:47:39 PM - Baba,Miho (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14611488,P16,"IQVIA Translation Platform Operations - Application Issue - Gupta,Shashwat (1077030)",Machine Translation Portal Prod,2024-02-05 18:11,2024-02-07 18:11,2024-02-05 19:32,4874,4874,"05-Feb-2024 09:07:59 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#: 2024/9117: It shows the error. XTRF could not add documents to the project in memoQ.
+#Resolution#: As per request, suggested user to reupload the document in XTRF, issue is resolved. Hence closing the ticket.
+
+05-Feb-2024 09:02:34 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#: 2024/9117: It shows the error. XTRF could not add documents to the project in memoQ.
+#Resolution#: As per request, suggested user to reupload the document in XTRF, issue is resolved. Hence closing the ticket.
+
+05-Feb-2024 08:37:21 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+05-Feb-2024 07:44:57 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+05-Feb-2024 07:41:20 AM - Gupta,Shashwat (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14600492,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Tanno,Kanako (837776)",Translation Services,2024-02-01 6:59,2024-02-05 6:59,2024-02-09 11:10,160239,313066,"09-Feb-2024 11:10:21 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue# Cannot find the translation cost from the spotfire.
+#Resolution# As per request we informed to TS Operations team and they will get back to the user . Hence closing the ticket.
+
+05-Feb-2024 06:23:35 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Waitingfor# We have sent an email to Operations support team regarding the issue, waiting for their update.
+
+04-Feb-2024 09:57:07 PM - Kasula,Abhilash (Work Notes)
+#Waitingfor# We have sent an email to Operations support team regarding the issue, waiting for their update.
+
+01-Feb-2024 07:48:12 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+01-Feb-2024 07:47:54 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+01-Feb-2024 06:59:21 AM - Tanno,Kanako (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14683433,P16,"IQVIA Translation Platform Operations - Application Issue - Basurto,Gisella (1172331)",Translation Services,2024-02-29 16:27,2024-03-04 16:27,2024-02-29 19:11,9840,9840,"29-Feb-2024 08:41:04 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <requested for vendor memoq access>
+#Resolution# <provided the required vendor memoq access. hence, closing the ticket>
+
+29-Feb-2024 07:18:32 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <working on the ticket>
+
+29-Feb-2024 06:00:39 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <accepted by Sreekanth, CI and Task Tag updated>
+
+29-Feb-2024 05:57:05 AM - Basurto,Gisella (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14656953,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-21 16:08,2024-02-23 16:08,2024-02-22 13:39,77417,77417,"22-Feb-2024 03:09:05 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Memoq access request for the following vendor - Eva de Vallescar (email: evallescar@gmail.com, XTRF ID: P002783)
+#Resolution#  As per request We have provided MemoQ Vendor  access to Eva de Vallescar, with registered email id evallescar@gmail.com
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+21-Feb-2024 05:57:54 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+21-Feb-2024 05:55:37 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+21-Feb-2024 05:38:49 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14670858,P16,Transaction Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability' failed: No element was clicked.,Translation Services,2024-02-26 18:21,2024-02-28 18:04,2024-03-04 13:41,1148,1148,"04-Mar-2024 03:11:52 AM - S Annigeri,Shivashankar (Work Notes)
+#issue# Transaction step in Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability:
+#Resolution#  We have validated the UAT XTRF services , Now all XTRF UAT services are working normal 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+26-Feb-2024 07:53:48 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  We are validating the services  which are not coming up due to upgrade
+
+26-Feb-2024 07:51:59 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon#  As this is a Test environment, we are reducing the priority.
+
+26-Feb-2024 07:39:14 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+26-Feb-2024 07:38:28 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+26-Feb-2024 07:37:13 AM - Sri Vegunta,Bhavana (Work Notes)
+https://translations-uat.quintiles.com/xtrf/
+
+Page is not loading as expected wihtin time.
+
+Loading of page is taking more than 1 min.
+
+SS attached of same.
+
+Hence assigned to resolver team for further action.
+
+26-Feb-2024 07:34:41 AM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: Transaction Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability' failed: No element was clicked.
+Started At: Mon Feb 26 2024 04:23:54 GMT-0800 (PST)
+Configuration Item: Translation Services
+Application: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019
+Object: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019
+Instance: Transaction Core_APPIANCLOUD-UAT_Availability from Dublin1-2019::2/26/2024::RuleTR1SV
+Sourcegroup: OrionWPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65dc82dae7509c0b9bc87a96"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65dc82dae7509c0b9bc87a96/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/dbba10fed2589e0b"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14666861,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Pacheco,Alejandro (776436)",Translation Services,2024-02-24 3:31,2024-02-28 3:30,2024-02-24 6:23,0,10345,"23-Feb-2024 07:53:26 PM - Sharma,Ashutosh (Work Notes)
+#Issue#< II cannot access the ITP, I usually access without problems but this time I cannot, is there any problem with the site?>
+#Resolution#<You already have an existing account in ITP XTRF,we have checked box the client portal allowed .
+https://translations.quintiles.com/customers/main.html. We have enabled the SSO login for TS Client portal. On the login page of client portal click on 'sign in with the SSO' button.On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+23-Feb-2024 05:32:46 PM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+23-Feb-2024 05:27:33 PM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+23-Feb-2024 05:01:01 PM - Pacheco,Luis Alejandro (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14665539,P16,"IQVIA Translation Platform Operations - Application Issue - Aristi,Delfina (1163907)",Translation Services,2024-02-23 19:23,2024-02-27 19:23,2024-02-23 21:17,6858,6858,"23-Feb-2024 10:47:42 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue#<Project code is correct and updated. However sponsor does not appear on XTRF. 
+Please help updating sponsor>
+#Resolution#<As per request, we have provided necessary guidence regarding sponsor update. hence closing the ticket>
+
+23-Feb-2024 08:58:12 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+23-Feb-2024 08:57:46 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Accepting this ticket>
+
+23-Feb-2024 08:53:24 AM - Aristi,Delfina (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14631105,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Ondoño,Nerea (1141424)",Translation Services,2024-02-12 18:15,2024-02-14 18:15,2024-02-12 19:12,3438,3438,"12-Feb-2024 08:42:35 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#: Hi! Could you please provide us with the files from the following archived projects? Thanks! Archived projects: 2022/10820, 2022/17502 and 2022/32762
+#Resolution#: As per request, except 10820 we have shared archived files over email . 10820 project is not archived yet, informed to user. Hence closing the ticket.
+
+12-Feb-2024 07:52:46 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+12-Feb-2024 07:52:19 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+12-Feb-2024 07:45:18 AM - Ondoño Soler,Nerea (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14683710,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-29 17:38,2024-03-04 17:38,2024-02-29 22:20,16883,16883,"29-Feb-2024 11:50:21 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Memoq request access for the following vendor -  Sadananda Tallur (P002824/tallursadananda@hotmail.com)
+#Resolution#  As per request We have provided MemoQ Vendor  access to  Sadananda Tallur , with registered email id tallursadananda@hotmail.com
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+29-Feb-2024 07:13:11 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+29-Feb-2024 07:12:40 AM - S Annigeri,Shivashankar (Work Notes)
+Accepted# Accepted the incident and task tag updated
+
+29-Feb-2024 07:08:58 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14613040,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Ayala,Eliana (1141129)",Translation Services,2024-02-06 0:29,2024-02-08 0:29,2024-02-06 23:10,38383,38383,"06-Feb-2024 11:10:29 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# memoq keeps crashing, freezing and giving an error that server isn't available. Could you kindly assist? I use memoq every day and this is delaying processes. thank you.
+Resolution : Memoq server services are working normal, need to logout from active sessions and select the respective project for quick search options, as active project selection will take time to load all  the active project data                    
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+06-Feb-2024 11:09:41 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# As discussed over teams , kindly check on Memoq loading issue
+
+06-Feb-2024 12:56:40 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# MemoQ Web Portal and server are working normal , Kindly close all the memoQ sessions and try to login again please
+
+06-Feb-2024 12:45:04 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+06-Feb-2024 12:44:02 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+06-Feb-2024 12:29:59 AM - Ayala,Eliana (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14601642,P16,"IQVIA Translation Platform Operations - Application Issue - Fernandez,Judit (1157373)",Translation Services,2024-02-01 14:53,2024-02-05 14:53,2024-02-01 23:01,4967,4967,"01-Feb-2024 12:31:52 PM - S Annigeri,Shivashankar (Work Notes)
+#issue#  I cannot connect to the server of MemoQ. I'm not sure if the licence has expired. Can you please help?
+#Resolution#  Validated the CAL license and Memoq access and after reactivation from user end , Memoq access is working normal
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+01-Feb-2024 05:46:06 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  CAL license is already enabled for your account, Can you please try to reactivate the CAL license and ping us back if issue persists
+
+01-Feb-2024 04:27:20 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this request
+
+01-Feb-2024 04:26:01 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+01-Feb-2024 04:23:19 AM - Fernandez,Judit (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14632958,P16,"IQVIA Translation Platform Operations - Application Issue - Baculfo,Sheena (1137215)",Translation Services,2024-02-13 7:58,2024-02-15 7:58,2024-02-13 21:33,48855,48855,"13-Feb-2024 11:03:13 AM - Kottam,Sreekanth (Work Notes)
+#Issue# < tcert is not generate for the project 2024/10336 >
+#Resolution# < I have tried multiple times to generate the Tcert from our end, tcert was not getting generated so I asked user to generate the tcert manually from user end. and user confirmed to close the ticket. hence, closing the ticket >
+
+12-Feb-2024 09:32:40 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# < working on tcert issue >
+
+12-Feb-2024 09:31:25 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+12-Feb-2024 09:28:58 PM - Baculfo,Sheena (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14642402,P16,Can you please check the receivables of the referenced project 2024/6331 They were not automatically populated. ,Translation Services,2024-02-16 0:21,2024-02-20 0:18,2024-02-16 0:35,823,823,"15-Feb-2024 02:05:25 PM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Can you please check the receivables of the referenced project 2024/6331 They were not automatically populated.
+#Resolution# As we verified both the vendors don't have a language combination pair for revision tasks kindly contact Trans Ops Support team to check on this.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+15-Feb-2024 02:01:55 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+15-Feb-2024 01:52:43 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident CI | task details updated
+
+15-Feb-2024 01:51:41 PM - S Annigeri,Shivashankar (Work Notes)
+Can you please check the receivables of the referenced project 2024/6331 They were not automatically populated. 
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14680646,P16,"IQVIA Translation Platform Operations - Application Issue - Gonzalez,Gilda (1099758)",Translation Services,2024-02-28 22:41,2024-03-01 22:41,2024-02-29 18:44,3544,3544,"29-Feb-2024 08:14:36 AM - Penumalla,Manikanta (Work Notes)
+#Issue#<Project 2023/101082 was delivered on time, but the field ""first close date"" was not properly populated due to an open internal non conformity>
+#Resolution#< we have updated the first close date as requested and hence closing this ticket>
+
+28-Feb-2024 01:10:13 PM - Penumalla,Manikanta (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+28-Feb-2024 12:33:15 PM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+28-Feb-2024 12:32:41 PM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+28-Feb-2024 12:11:09 PM - Gonzalez,Gilda (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14644624,P16,"Files not exporting from memoQ (2024/7537) - Gimenez,Rodrigo (1146177) (General Issue - Information Technology)",Translation Services,2024-02-16 17:11,2024-02-20 17:11,2024-02-19 14:24,17693,17693,"19-Feb-2024 03:54:06 AM - S Annigeri,Shivashankar (Work Notes)
+#issue# or project 2024/7537 on the portal, 2 out of 5 files from memoQ, already translated, are failing export apparently due to incorrectly paired tags. However, the tags are correctly paired. I've tried copy pasting them
+#Resolution# As per request documents have been exported form Memoq for project 2024/7537 and shared over Microsoft teams chat
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+16-Feb-2024 11:36:40 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  As per request documents has been translated and shared over teams chat , Kindly get it validated by translator.
+
+16-Feb-2024 10:01:09 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+16-Feb-2024 10:00:37 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+16-Feb-2024 09:41:27 AM - Pathan,Roshni (Work Notes)
+Assigning to TMS Production Support Team as per KB0030463,
+please check and assist on it:
+""For project 2024/7537 on the portal, 2 out of 5 files from memoQ, already translated, are failing export apparently due to incorrectly paired tags. However, the tags are correctly paired. I've tried copypasting them and removing them as well, but these did not work. Only the Adult Main ICF and Parental Main ICF are failing, the other files were correctly exported and were also exported after the linguistic steps to the portal. IT seems there was an issue during Revision 1, as the automatic exports for those two files did not upload for that phase and Revision 2.""
+
+***************************************************
+[8:06 PM] Pathan, Roshni
+yes you cannot login directly ...have to reset password from your end first
+[8:06 PM] Gimenez, Rodrigo
+Hi Roshni!
+[8:08 PM] Gimenez, Rodrigo
+I'm not sure if this is a password related issue, I have access to my account on memoQ with no issues.
+
+16-Feb-2024 06:41:56 AM - Gimenez,Rodrigo (Work Notes)
+For details of the issue, please see the Information from VIA tab
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14649910,P16,Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found,Translation Services,2024-02-19 16:16,2024-02-21 16:16,2024-02-19 18:57,9636,9636,"19-Feb-2024 06:57:34 PM - Mohan,Namitha (Work Notes)
+#Issue#  Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found
+#Resolution#  SQL server deadlocks cleared automatically and memoQ application is working fine. no need to restart the memoQ application
+
+19-Feb-2024 06:15:22 PM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+19-Feb-2024 04:18:22 PM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+19-Feb-2024 04:16:58 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: api.splunk_script
+Description: Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found
+Started At: Mon Feb 19 2024 02:46:38 GMT-0800 (PST)
+Configuration Item: Translation Services
+Application: memoQServer
+Object: ca2stmsa02p
+Instance: Splunk_memoQServer,KB0027348
+Sourcegroup: Splunk-Event
+Splunk Raw: 2024.02.19 05:33:57.4053404 <Unknown> (Error) (Toppan) (163,163) General error.
+TYPE:
+System.Data.SqlClient.SqlException
+MESSAGE:
+Transaction (Process ID 67) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+SOURCE:
+.Net SqlClient Data Provider
+CALL STACK:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWa
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d3318ee1a51de3d942da48"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d3318ee1a51de3d942da48/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/f72d1f4329b92766"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14664999,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Shields,Niall (1117018)",Translation Services,2024-02-23 16:21,2024-02-27 16:21,2024-02-26 21:41,9855,9855,"26-Feb-2024 11:11:36 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue#  TS client portal Access Request  Requested by Shields,Niall (1117018)
+#Resolution#  As per request we have added  your account to Q2 Solutions client , We have enabled the SSO login and sent a password reset email for TS Client portal. (Registered email ID : niall.shields@q2labsolutions.com)
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+26-Feb-2024 02:27:17 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# As per request we have added your account to Q2 Solutions client, kindly check the access and contact us back for any issues
+
+23-Feb-2024 08:36:02 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# As per request we have added your account to Q2 Solutions client, kindly check the access and contact us back for any issues
+
+23-Feb-2024 05:54:26 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+23-Feb-2024 05:53:54 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident CI | task details updated
+
+23-Feb-2024 05:51:47 AM - Shields,Niall (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14670718,P16,Flat files ingestion,Translation Services,2024-02-26 17:31,2024-02-28 17:27,2024-02-27 16:12,81657,81657,"27-Feb-2024 05:42:15 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< Flat file ingestion to DWH.>
+#Resolution#< we have ingested the ""UPT 1 matrix mar 21"" , UPT_2 Matrix (We need the updated version loaded),Contract Budget, Third Party Spend 97922 and UPT 1 matrix  flat file to DWH and hence closing this ticket>
+
+26-Feb-2024 07:03:33 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+26-Feb-2024 07:02:38 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+26-Feb-2024 07:01:19 AM - Penumalla,Manikanta (Work Notes)
+Hi all,
+
+The following flat files need to be ingested into the DWH:
+
+• UPT_1 Matrix
+• UPT_1 Matrix Mar 21
+• UPT_2 Matrix (We need the updated version loaded)
+• Contract Budget
+• Third Party Spend 97922
+
+The language comparison UPT file is no longer required and can be removed from the DWH. 
+
+I have saved all 5 files in the folder 'To be uploaded in DWH'
+
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14656617,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-21 14:31,2024-02-23 14:31,2024-02-22 13:37,83179,83179,"22-Feb-2024 03:07:44 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Memoq request access for the following vendor - Julio Cesar Madrid (email: juliomadrid@gmail.com, XTRF ID: P002781)
+#Resolution#  As per request We have provided MemoQ Vendor  access to Julio Cesar Madrid, with registered email id juliomadrid@gmail.com
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+21-Feb-2024 04:14:01 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+21-Feb-2024 04:13:22 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+21-Feb-2024 04:13:21 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+21-Feb-2024 04:01:25 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14600789,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Joshi,Sneha (1032081)",Machine Translation Portal Prod,2024-02-01 10:03,2024-02-05 10:03,2024-02-01 17:07,7538,7538,"01-Feb-2024 05:07:18 PM - A,Vaishnavi (Work Notes)
+#Issue# <User requested for translated document>
+#Resolution# <User requested for Italian to English translation for the attached document. We have shared the same on MS Teams. Kindly try the translation in MTP translation portal in future. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>>
+
+01-Feb-2024 12:09:17 PM - A,Vaishnavi (Work Notes)
+#Waitingfor# <Checking with user on language pair to be translated>
+
+01-Feb-2024 10:13:48 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+01-Feb-2024 10:13:32 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+01-Feb-2024 10:03:39 AM - Joshi,Sneha (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14615886,P16,"IQVIA Translation Platform Operations - Application Issue - Guinto,Elmer (1103216)",Translation Services,2024-02-06 19:29,2024-02-08 19:29,2024-02-08 18:23,96969,96969,"08-Feb-2024 06:23:58 PM - Kottam,Sreekanth (Work Notes)
+#Issue# < total quantity in receivables not updated >
+#Resolution# < user confirmed that the issue has been resolved from user end, user confirmed to close the ticket. hence, closing the ticket >
+
+07-Feb-2024 10:25:23 PM - Kottam,Sreekanth (Work Notes)
+#Waiting for# < waiting for user inputs to proceed further on the ticket >
+
+06-Feb-2024 08:47:12 PM - Kottam,Sreekanth (Work Notes)
+#Working on# < to check and update the rechargeables >
+
+06-Feb-2024 08:40:48 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+06-Feb-2024 07:29:15 PM - Guinto,Elmer (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14649547,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-19 14:30,2024-02-21 14:30,2024-02-19 22:01,27066,27066,"19-Feb-2024 11:31:19 AM - S Annigeri,Shivashankar (Work Notes)
+#issue#  Memoq request access for the following vendor - Gonzalo Calderon (gonzalo.calderon7@gmail.com, XTRF ID: P002771)
+#Resolution#  As per request We have provided MemoQ Vendor  access to Gonzalo Calderon, with registered email id gonzalo.calderon7@gmail.com
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+19-Feb-2024 04:04:02 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+19-Feb-2024 04:03:23 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+19-Feb-2024 04:00:14 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14642392,P16,"Vendor Guadalupe Buosi  having issues in accessing memoQ ,",Translation Services,2024-02-16 0:16,2024-02-20 0:12,2024-02-16 0:37,1236,1236,"15-Feb-2024 02:07:14 PM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Vendor Guadalupe Buosi  having issues in accessing memoQ ,
+#Resolution# MemoQ account validated , We have triggered password reset email for user account and now user is able to able to login
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+15-Feb-2024 02:00:50 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+15-Feb-2024 01:47:48 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident CI | task details updated
+
+15-Feb-2024 01:46:38 PM - S Annigeri,Shivashankar (Work Notes)
+.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14601693,P16,"IQVIA Translation Platform Operations - Application Issue - Cárdenas,Irene (1159829)",Translation Services,2024-02-01 15:09,2024-02-05 15:09,2024-02-03 19:50,130828,189654,"03-Feb-2024 09:20:26 AM - Kasula,Abhilash (Work Notes)
+#Issue# Failed to add entry to the translation memory in memoQ
+#Resolution# The corresponding working TM has been repaired in memoQ then user able to add entries to the TM and hence closing this ticket.
+
+01-Feb-2024 05:27:52 AM - Kasula,Abhilash (Work Notes)
+#Accepted# Accepted and looking into the issue
+
+01-Feb-2024 04:39:32 AM - Cárdenas,Irene (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kasula,Abhilash (1030722)"
+INC14651878,P16,"IQVIA Translation Platform Operations - Application Issue - Llamzon,John Darryl (1087009)",Translation Services,2024-02-20 8:38,2024-02-22 8:38,2024-02-20 12:31,13929,13929,"20-Feb-2024 02:01:01 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue#<Request for memoQ version update.>
+#Resolution#<As per request, connected with user and guided the necessary information and provided correct via form to installation of memoQ. Hence closing the ticket.>
+
+19-Feb-2024 11:05:22 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+19-Feb-2024 10:58:20 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Accepting this ticket>
+
+19-Feb-2024 10:08:53 PM - Llamzon,John Darryl (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14631649,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Dimmock,Sophie (839407)",Translation Services,2024-02-12 20:54,2024-02-14 20:54,2024-02-12 23:57,10950,10950,"12-Feb-2024 01:27:06 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# I am trying to access ITP for project KAB94320 however once I have logged in, it says access denied and I am unable to launch a project
+#Resolution#  User account settings has been modified in XTRF and user is able to search all past projects
+                         Translations Operations Support team : transopssupport@iqvia.com
+
+12-Feb-2024 10:42:43 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# Can you please check the  ITP access now .
+
+12-Feb-2024 10:40:52 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# Your account has been moved to Lifecycle Safety (LCS) Team client.
+
+12-Feb-2024 10:29:47 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+12-Feb-2024 10:29:18 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+12-Feb-2024 10:24:37 AM - Dimmock,Sophie (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14612017,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Cortes,Alicia (1162438)",Translation Services,2024-02-05 19:57,2024-02-07 19:57,2024-02-09 14:15,11448,11448,"09-Feb-2024 03:45:16 AM - Kasula,Abhilash (Work Notes)
+#Issue# TS Client portal access issue
+#Resolution# Issue has been resolved after clearing the cache and cookies and hence closing the ticket.
+
+05-Feb-2024 12:38:05 PM - Mohan,Namitha (Work Notes)
+#Waitingfor# Kindly provide us with an error screenshot or explanation for the better understanding of the issue.
+
+05-Feb-2024 12:36:07 PM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+05-Feb-2024 09:36:30 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepted by Namitha>
+
+05-Feb-2024 09:27:18 AM - Cortes,Alicia (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14670023,P16,"XTRF not working - Spotorno,Alice (1134268) (General Issue - Information Technology)",Translation Services,2024-02-26 14:11,2024-02-28 14:11,2024-02-26 21:46,27252,27252,"26-Feb-2024 11:16:09 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Since Friday, I am having issues with XTRF. On Chrome, the pages of the projects do not load, and I get signed off every couple seconds. I can open projects using Edge, but often I am unable to upload any files which is a big problem. If you could have a look into what is causing these performance issues, it would be a great help! Thank you.
+#Resolution# After clearing the temp files/cookies form web browser XTRF is working normal, if still issue persists kindly try to  use Private/incognito  window on browser 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+26-Feb-2024 08:40:37 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+26-Feb-2024 08:39:39 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the Request and CI | task details updated
+
+26-Feb-2024 08:35:55 AM - B,Anuja (Work Notes)
+Hi team
+Please assist user with XTRF not working
+Assigning for advice and assistance
+
+user comments:
+Since Friday, I am having issues with XTRF. On Chrome, the pages of the projects do not load, and I get signed off every couple seconds. I can open projects using Edge, but often I am unable to upload any files which is a big problem. If you could have a look into what is causing these performance issues, it would be a great help! Thank you.
+
+26-Feb-2024 03:41:58 AM - Spotorno,Alice (Work Notes)
+For details of the issue, please see the Information from VIA tab
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14602568,P16,"IQVIA Translation Platform Operations - Application Issue - Martínez,Sergi (1142164)",Translation Services,2024-02-01 19:27,2024-02-05 19:27,2024-02-02 22:04,95815,95815,"02-Feb-2024 11:34:24 AM - Sharma,Ashutosh (Work Notes)
+#Issue# We are requested by the ALCON team to have their distribution list visible when selecting the requesters for a project in ITP.
+Can you please create a contact for ""Lifecycle Safety (LCS) Team"" client called ""Alcon Safety"" which address is ""Alcon_Safety@iqvia.com"" so its selectable for when creating a project in the portal?
+#Resolution# Requestor ""Alcon Safety"" (""Alcon_Safety@iqvia.com "") has been added Under Lifecycle Safety (LCS) Team"" client .Hence closing the ticket.
+
+01-Feb-2024 09:10:22 AM - Sharma,Ashutosh (Work Notes)
+#Workingon# Started working on the request.
+
+01-Feb-2024 09:09:51 AM - Sharma,Ashutosh (Work Notes)
+#Accepted# Accepted by Ashutosh Sharma
+
+01-Feb-2024 08:57:28 AM - Martínez,Sergi (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14633386,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Fukuzumi,Hitoshi (1021615)",Machine Translation Portal Prod,2024-02-13 12:22,2024-02-15 12:22,2024-02-13 18:09,20794,20794,"13-Feb-2024 07:39:02 AM - A,Vaishnavi (Work Notes)
+#Issue# <User reported translation is not happening for mentioned file>
+#Resolution# <We changed the engine from Google to DeepL post that translation happened and the translated file has been shared to user. FYI, Development team is working on fixing this bug with Google engine in the upcoming release. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+13-Feb-2024 02:05:31 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+13-Feb-2024 02:05:01 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+13-Feb-2024 01:52:29 AM - Fukuzumi,Hitoshi (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14667065,P16,C:\ Label:  02F168DC on morstmsa01q is 96 % full,morstmsa01q,2024-02-24 6:02,2024-02-28 3:30,2024-02-28 19:29,0,1387,"28-Feb-2024 08:59:11 AM - Sharma,Ashutosh (Work Notes)
+#Issue#< C:\ Label:  02F168DC on morstmsa01q is 96 % full>
+#Resolution#< We checked the C drive for server morstmsa01q , now space is under threshold after clearning space now 11.5 GB available,Hence clsosing the ticket >
+
+23-Feb-2024 07:55:43 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+23-Feb-2024 07:54:38 PM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+23-Feb-2024 07:48:18 PM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+23-Feb-2024 07:32:37 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: C:\ Label:  02F168DC on morstmsa01q is 96 % full
+Started At: Fri Feb 23 2024 16:32:18 GMT-0800 (PST)
+Configuration Item: morstmsa01q
+Application: morstmsa01q::C:\ Label:  02F168DC::e3c2025c-882e-4799-86a1-64823c8615cb::2/23/2024::RuleOS4BOF
+Object: morstmsa01q
+Instance: Disk 95+
+Sourcegroup: Orion
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d93912cbcfc62d1a41021c"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d93912cbcfc62d1a41021c/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/665635dab22e7f74"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14630656,P16,"IQVIA Translation Platform Operations - Application Issue - Penfold,Tahlia (1066677)",Translation Services,2024-02-12 15:44,2024-02-14 15:44,2024-02-12 17:32,6490,6490,"12-Feb-2024 07:02:36 AM - S Annigeri,Shivashankar (Work Notes)
+#issue# Hi Team, please could you move client user Ashley Cornelius from client Boehringer Ingelheim (GFR) to Study Hub (DCT) client in XTRF? Thank you in advance! Tahlia
+#Resolution#  As requested by PM user needs to complete few ongoing projects and once done PM will raise a new request on this client group change , as confirmed by PM we are closing this incident
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+12-Feb-2024 05:18:02 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+12-Feb-2024 05:17:36 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+12-Feb-2024 05:14:27 AM - Penfold,Tahlia (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14640928,P16,"IQVIA Translation Platform Operations - Application Issue - Espinar,Sílvia (1162026)",Translation Services,2024-02-15 16:37,2024-02-19 16:37,2024-02-16 14:31,71051,71051,"16-Feb-2024 04:01:25 AM - Sharma,Ashutosh (Work Notes)
+#Issue#< Hi team! ! the linguist has been working on the MemoQ Desktop version for this large project, and 3 of the files she completed do not appear done in MemoQ once synchronized. Could you please help look into why that might have happened? Project number 2024/10682. Language NL (Dutch). Thanks!>
+#Resolution#< Lingustic was able to confirm the segments & deliver the file memoq ,Hence closing the ticket.>
+
+16-Feb-2024 01:52:03 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the lingustic reply & PM >
+
+15-Feb-2024 06:10:21 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+15-Feb-2024 06:09:22 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+15-Feb-2024 06:07:52 AM - Espinar,Sílvia (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14606543,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Cambrelen,Teresa (1075847)",Machine Translation Portal Prod,2024-02-02 22:17,2024-02-06 22:17,2024-02-06 16:49,1252,1252,"06-Feb-2024 06:19:25 AM - Sharma,Ashutosh (Work Notes)
+#Issue# IQVIA Translation Platform – Application Issue - General request or issue with ITP - Cambrelen,Teresa (1075847) in the morning the application works fine and after 12 it doesnt let me select a target language anymore
+#Resolution# User was able to select target langauge after clearing cache & cokkies from the browser , In edge browser its working , hence closing the ticket.
+
+02-Feb-2024 12:08:34 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor# Hi Teresa,Please clear cache & cokkies from the broswer later try to login to the portal.
+
+02-Feb-2024 12:06:56 PM - Sharma,Ashutosh (Work Notes)
+#Workingon# Started working on the request.
+
+02-Feb-2024 12:06:31 PM - Sharma,Ashutosh (Work Notes)
+#Accepted# Accepted by Ashutosh Sharma
+
+02-Feb-2024 11:47:43 AM - Cambrelen,Teresa (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14640833,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Nagahisa,Sachiyo (609312)",Machine Translation Portal Prod,2024-02-15 16:07,2024-02-19 16:07,2024-02-15 22:28,1007,1007,"15-Feb-2024 11:58:36 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue#  The PDF/Word file was translated from English to Japanese, but when I click the download button, it doesn't download.
+#Resolution#  After clearing the temp files/cookies form web browser MTP Access working normal and dictionaries addition issue also got resolved 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+15-Feb-2024 05:54:39 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  As discussed over teams  kindly try the steps and contact us back once you have time.
+
+15-Feb-2024 05:44:12 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon#  Can you please try with  different Browser and validate once
+
+15-Feb-2024 05:41:29 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+15-Feb-2024 05:40:58 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+15-Feb-2024 05:37:52 AM - Nagahisa,Sachiyo (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14637776,P40,TMS Appian Prod Disk clean up,Translation Management System (TMS),2024-02-14 17:01,2024-02-21 17:00,2024-02-26 20:00,158210,158210,"26-Feb-2024 09:30:25 AM - Penumalla,Manikanta (Work Notes)
+#Issue#<Appian TMS document clean up.>
+#Resolution#< we have cleared the 140 GB of TMS document folder size and hence closing this ticket>
+
+16-Feb-2024 02:28:38 AM - Penumalla,Manikanta (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+14-Feb-2024 06:33:22 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+14-Feb-2024 06:32:40 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#<Accepting this ticket>
+
+14-Feb-2024 06:31:48 AM - Penumalla,Manikanta (Work Notes)
+TMS Appian Prod Disk clean up
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14641087,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-15 17:34,2024-02-19 17:34,2024-02-15 19:48,7988,7988,"15-Feb-2024 09:18:03 AM - Mohan,Namitha (Work Notes)
+#Issue#  Memoq access request for the following vendor - Mirta Guerra (email: mirta.guerra.gonzalez@gmail.com; XTRF ID: P002766)
+#Resolution#  As per request we provided MemoQ access and granted CAL license for user P002766. Password reset mail sent to user. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+15-Feb-2024 07:09:07 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+15-Feb-2024 07:08:27 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+15-Feb-2024 07:04:55 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14623107,P16,"I get a message that I'm not allowed to login into the Language Weaver. Can you please fix this issue? I'm attaching a picture of the error message I get. - Santoro,Raffaela (1047761) (General Issue -",Machine Translation Portal Prod,2024-02-08 18:06,2024-02-12 18:06,2024-02-08 21:31,12260,12260,"08-Feb-2024 11:01:12 AM - Mohan,Namitha (Work Notes)
+#Issue#  User not able to access Language weaver portal
+#Resolution#  Connected with user via teams and provided guidance to login to new MTP portal which replaced Language weaver portal. User confirmed to close the ticket as user was able to login successfully.
+
+08-Feb-2024 10:54:33 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+08-Feb-2024 10:53:47 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepted by Namitha>
+
+08-Feb-2024 10:53:44 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+08-Feb-2024 10:52:41 AM - S Annigeri,Shivashankar (Work Notes)
+Accepted
+
+08-Feb-2024 10:44:54 AM - Asmashayista,Asmashayista (Work Notes)
+Hello Team,
+
+user comments:
+
+I get a message that I'm not allowed to login into the Language Weaver. Can you please fix this issue? I'm attaching a picture of the error message I get. - Santoro,Raffaela (1047761) (General Issue -
+
+
+URL: https://portal.languageweaver.com/login
+
+Reference:  INC14506643
+
+08-Feb-2024 07:36:52 AM - Santoro,Raffaela (Work Notes)
+For details of the issue, please see the Information from VIA tab
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14680745,P16,"IQVIA Translation Platform Operations - Application Issue - Palmigiano,Pasquale (1172976)",Translation Services,2024-02-28 23:12,2024-03-01 23:12,2024-02-29 15:43,59472,59472,"29-Feb-2024 05:13:13 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue# <User Requested MemoQ Access>
+#Resolution# <As per request, we have provided MemoQ access and granted CAL license for mentioned users. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+28-Feb-2024 07:35:05 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+28-Feb-2024 01:40:24 PM - Kasula,Abhilash (Work Notes)
+#Accepted# We will look into the request
+
+28-Feb-2024 01:38:42 PM - Kasula,Abhilash (Work Notes)
+#Accepted# We will look into the request
+
+28-Feb-2024 12:42:01 PM - Palmigiano,Pasquale (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14671528,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Gasch,Claudia (1147124)",Translation Services,2024-02-26 20:27,2024-02-28 20:27,2024-02-27 17:10,3013,3013,"27-Feb-2024 06:40:43 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Please provide a TS ITP Access | TS Access Request Requested by Gasch,Claudia (1147124)
+#Resolution#  As per request we have added  your account to Lifecycle Safety (LCS) Team  client, We have enabled the SSO login and sent a password reset email for TS Client portal. (Registered email ID : akinori.miura@q2labsolutions.com)
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+26-Feb-2024 10:47:25 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  Kindly let us know for which client you need TS Access or contact the Project manager for client information.
+
+26-Feb-2024 10:01:39 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+26-Feb-2024 10:00:11 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and CI and task tags updated
+
+26-Feb-2024 09:57:13 AM - Gasch,Claudia (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14638320,P16,"IQVIA Translation Platform Operations - Application Issue - Rosa,Jorge (1150957)",Translation Services,2024-02-14 19:42,2024-02-16 19:42,2024-02-14 22:55,1535,1535,"14-Feb-2024 12:25:24 PM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Please add the following CC to the drop down list: US20300071
+#Resolution#  As per request SBU/Cost center code US20300071 added to XTRF production environment
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+14-Feb-2024 09:39:22 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# As per request we have added the cost center to US20300071 to xtrf , kindly check.
+
+14-Feb-2024 09:38:03 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  As per request we have added the cost center to US20300071 to xtrf , kindly check.
+
+14-Feb-2024 09:18:32 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+14-Feb-2024 09:18:02 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+14-Feb-2024 09:12:28 AM - Rosa,Jorge (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14616159,P16,URGENT 01143178002244 Unable to AccessTransPerfect Project,Translation Services,2024-02-06 20:58,2024-02-08 20:48,2024-02-07 14:31,63472,63472,"07-Feb-2024 04:01:38 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue# < user not able login to transperfect >
+#Resolution# < we have provided the access to the user >
+
+07-Feb-2024 04:00:16 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+06-Feb-2024 10:29:21 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+06-Feb-2024 10:28:00 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+Hi Manuel, Please note that P8 is the highest priority and is reserved for cases when TS application is down or severely malfunctioning
+(for example: multiple users cannot log in). This is the reason I have changed the priority of this ticket.
+
+06-Feb-2024 10:23:46 AM - Villar,Reggielette (Work Notes)
+01143178002244 Unable to AccessTransPerfect Project
+
+ID: Feilmair,Manuel (1062838)
+
+Transperfect translation needed
+See attached error
+
+Provided email to user ""IQVIA_status@transperfect.com"" 
+
+Kindly assist thanks!
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14604704,P16,"IQVIA Translation Platform Operations - Application Issue - Xu,Sonia (1159772)",Translation Services,2024-02-02 11:53,2024-02-06 11:53,2024-02-02 19:13,26410,26410,"02-Feb-2024 08:43:19 AM - Mohan,Namitha (Work Notes)
+#Issue#  User not able to edit the invoice in project 2024/7632 due to client profile update.
+#Resolution#  Connected with user and verified the issue. User was able to edit the invoice after moving a user to Sandoz client. Changes reverted after  invoice updating. User confirmed to close the ticket. Hence closing the same.
+
+02-Feb-2024 02:33:07 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+02-Feb-2024 01:44:29 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepted by Namitha>
+
+02-Feb-2024 01:23:09 AM - Xu,Qianyun (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14642013,P16,"IQVIA Translation Platform Operations - Application Issue - Palmigiano,Pasquale (1172976)",Translation Services,2024-02-15 22:01,2024-02-19 22:01,2024-02-16 15:54,64413,64413,"16-Feb-2024 05:24:41 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue# <User Requested MemoQ Access>
+#Resolution# <As per request, we have provided MemoQ access and granted CAL license for mentioned users. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+15-Feb-2024 11:36:52 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+15-Feb-2024 11:35:55 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Accepting this ticket>
+
+15-Feb-2024 11:31:08 AM - Palmigiano,Pasquale (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14621177,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Sharma,Shipra (1158885)",Translation Services,2024-02-08 2:58,2024-02-10 2:58,2024-02-09 2:37,3178,3178,"08-Feb-2024 04:07:42 PM - S Annigeri,Shivashankar (Work Notes)
+#issue#  Need a client portal access - TS Access Request Requested by Sharma,Shipra (1158885)
+#Resolution# As per request we have added your account to IQVIA USA client, We have enabled the SSO login and sent a password reset email for TS Client portal. 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+08-Feb-2024 01:39:24 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# Can you please share the link which you are trying to access .
+
+07-Feb-2024 05:21:18 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# Can you please share the link which you are trying to access .
+
+07-Feb-2024 04:47:54 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# Can you please share the link which you are trying to access .
+
+07-Feb-2024 04:31:59 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+07-Feb-2024 04:30:52 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+07-Feb-2024 04:28:20 PM - Sharma,Shipra (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14637332,P16,"IQVIA Translation Platform Operations - Application Issue - Espinar,Sílvia (1162026)",Translation Services,2024-02-14 14:25,2024-02-16 14:25,2024-02-15 14:13,12055,12055,"15-Feb-2024 03:43:26 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#<The client tried to reject a file in XTRF however when they tried to select a target language, XTRF provided no options. >
+#Resolution#<As per request, we have connected with user, issue has been resolved after retrying from user end. Hence closing the ticket>
+
+14-Feb-2024 07:16:20 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Waitingfor#<we are waiting the availability of user to resolve the issue.>
+
+14-Feb-2024 06:24:42 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+14-Feb-2024 04:02:50 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Accepting this ticket>
+
+14-Feb-2024 03:55:25 AM - Espinar,Sílvia (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14639712,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Inoue,Kaoru (41450)",Machine Translation Portal Prod,2024-02-15 6:57,2024-02-19 6:57,2024-02-22 22:11,23278,23278,"22-Feb-2024 11:41:33 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <not able to translate the particular document>
+#Resolution# <We have shared the translated doc to user and user reported that there is no issue with any other translation in MTP portal hence closing the Incident>
+
+15-Feb-2024 02:55:28 AM - Kottam,Sreekanth (Work Notes)
+#Waitingfor# <We have shared the translated document with user, checking on issue because it was not translated at user end>
+
+14-Feb-2024 08:56:17 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# < to translate the document in MTP portal >
+
+14-Feb-2024 08:44:33 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+14-Feb-2024 08:27:30 PM - Inoue,Kaoru (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14614863,P16,"IQVIA Translation Platform Operations - Application Issue - Mandapalli,Charis David (1078646)",Translation Services,2024-02-06 15:00,2024-02-08 15:00,2024-02-08 13:45,1159,1159,"08-Feb-2024 03:15:47 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user facing an issue with triaged word files >
+#Resolution# <we had given triaged word files  to user>
+
+06-Feb-2024 04:49:21 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <we had given triaged word files to user>
+
+06-Feb-2024 04:41:36 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+06-Feb-2024 04:38:05 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+06-Feb-2024 04:30:03 AM - Mandapalli,Charis David (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14680299,P16,TCERTS not generating for project 2024/14091,Translation Services,2024-02-28 21:10,2024-03-01 21:09,2024-02-28 21:23,770,770,"28-Feb-2024 10:53:14 AM - Mohan,Namitha (Work Notes)
+#Issue#  TCERT is not getting generated for project 2024/14091
+#Resolution#  :TCERT  was not generating for project as the work files for TCERT job was not present. TCERT generated after adding the same manually  and  restarting the TCERT job  . Informed user the same. Hence closing the ticket.
+
+28-Feb-2024 10:42:20 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+28-Feb-2024 10:40:55 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+28-Feb-2024 10:40:24 AM - Mohan,Namitha (Work Notes)
+TCERTS not generating for project 2024/14091
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14616636,P16,"IQVIA Translation Platform Operations - Application Issue - Sánchez,Javier (1140476)",Translation Services,2024-02-06 22:41,2024-02-08 22:41,2024-02-09 2:16,3496,3496,"08-Feb-2024 03:46:51 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# Please create a new client in XTRF called Q2 Solutions General. Rebecca Woods is OoO so please send the approval request to her backup Sergi Martinez (sergi.martinez@iqvia.com)
+#Resolution# As per request we have added a new Client ""Q2 Solutions General "" to xtrf  and assigned Main POC as Meggan meggan.monroe@q2labsolutions.com
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+08-Feb-2024 01:33:57 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# As per request we have added a new client Q2 Solutions General in XTRF and main POC as Meggan meggan.monroe@q2labsolutions.com , kindly check and validate
+
+07-Feb-2024 05:04:59 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  We are waiting for internal approval, will share the details once client created
+
+06-Feb-2024 01:09:50 PM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  kindly let us know main contact/POC for this Q2 Solutions General client
+
+06-Feb-2024 01:00:17 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+06-Feb-2024 12:53:58 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+06-Feb-2024 12:52:46 PM - S Annigeri,Shivashankar (Work Notes)
+Accepted
+
+06-Feb-2024 12:11:34 PM - Sánchez,Javier (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14678539,P16,Customer Follow Up for RITM21839787,Translation Services,2024-02-28 13:42,2024-03-01 13:42,2024-02-29 20:51,112145,112145,"29-Feb-2024 10:21:31 AM - Mohan,Namitha (Work Notes)
+#Issue# <Customer Follow Up for RITM21839787 >
+#Resolution# < As per the ticket we have shared the translated document with the user. User confirmed to close the ticket. Hence closing the same.
+
+28-Feb-2024 05:49:37 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+28-Feb-2024 04:02:01 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+28-Feb-2024 03:12:26 AM - Ramirez Solano,Nallely (Work Notes)
+The following comments were provided for RITM21839787 which was not completed to customer satisfaction:
+
+Please could you translate the word file document that I have just uploaded
+
+Please review the RITM and follow up with the customer.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14676112,P16,"IQVIA Translation Platform Operations - Application Issue - Cha,HaNa (1141643)",Translation Services,2024-02-27 21:32,2024-02-29 21:32,2024-02-27 23:32,7241,7241,"27-Feb-2024 01:02:52 PM - Sharma,Ashutosh (Work Notes)
+#Issue#< Access to MemoQ requested for the following vendor
+Name: Seonmo Goo (P002814)
+Email address: smgoo101@gmail.com>
+#Resolution#< We have granted the memoq access for Seonmo Goo (P002814) with CAL license ,Hence closing the ticket.>
+
+27-Feb-2024 11:35:12 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+27-Feb-2024 11:34:24 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+27-Feb-2024 11:02:12 AM - Cha,HaNa (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14636416,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Sonoda,Asuka (1154704)",Machine Translation Portal Prod,2024-02-14 7:39,2024-02-16 7:39,2024-02-15 7:40,86492,86492,"14-Feb-2024 09:10:57 PM - Kottam,Sreekanth (Work Notes)
+#Issue# < user was unable to translate the document >
+#Resolution# < we have asked user to share the failed documents, user has shared the documents via teams chat and we have translated the documents in MTP UAT. document got translated successfully. hence closing the ticket >
+
+13-Feb-2024 09:12:55 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# < to fix the MTP translation issue >
+
+13-Feb-2024 09:11:45 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+13-Feb-2024 09:09:25 PM - Sonoda,Asuka (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14612309,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Ondoño,Nerea (1141424)",Translation Services,2024-02-05 21:05,2024-02-07 21:05,2024-03-27 0:04,2582,2582,"26-Mar-2024 02:34:44 PM - Sharma,Ashutosh (Work Notes)
+#Issue# <Project 2023/15777 is showing as closed even though it is open. Could you please check as we are unable to add any new steps or do anything really due to this issue? Thanks!>
+#Resolution# < We have checked the project & later shared to XTRF help desk , we got last reply from XTRF desk team, we got stating that thier devleopment team has informed that they cannot proceed with further verification of the issue because the current version of our Production instance (9.6) is unsupported.
+
+Lattest XTRF versions contain numerous bug fixes.So they wanted us to updated XTRF version for lattest version for prevent future projects issues.
+for few projects we cant update XTRF version, If we got more similar projects ,defentily we look into, as of now user dont have further projects ,Hence closing the tickets >
+
+26-Mar-2024 09:56:00 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor# < Hi Nerea, last reply from XTRF desk team, we got stating that thier devleopment team  has informed that they cannot proceed with further verification of the issue because the current version of our Production instance (9.6) is unsupported.
+
+Lattest XTRF versions contain numerous bug fixes.So they wanted us to updated XTRF version for lattest version for prevent future projects issues.>
+
+04-Mar-2024 12:58:05 PM - Sharma,Ashutosh (Work Notes)
+Update.
+
+09-Feb-2024 09:00:02 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor# Hi Nerea, We have raised case with XTRF help desk team ,once get response from them ,will get back to you.
+
+05-Feb-2024 01:41:38 PM - Sharma,Ashutosh (Work Notes)
+Updated.
+
+05-Feb-2024 11:18:35 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor# Hi Nerea, we are able to change the status of the job.
+
+05-Feb-2024 11:03:40 AM - Sharma,Ashutosh (Work Notes)
+#Workingon# Started working on the request.
+
+05-Feb-2024 11:03:09 AM - Sharma,Ashutosh (Work Notes)
+#Accepted# Accepted by Ashutosh Sharma
+
+05-Feb-2024 10:35:33 AM - Ondoño Soler,Nerea (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14616272,P16,"IQVIA Translation Platform Operations - Application Issue - Elleston,Hope (1140673)",Translation Services,2024-02-06 21:15,2024-02-08 21:15,2024-02-06 23:02,6453,6453,"06-Feb-2024 12:32:46 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# can't create project in Memoq due to BI template. project 2024/9788
+#Resolution# term base settings has been updated by terminology team and now 2024/9788 project got created in MemoQ
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+06-Feb-2024 10:51:16 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+06-Feb-2024 10:50:21 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+06-Feb-2024 10:45:12 AM - Elleston,Hope (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14679344,P16,"IQVIA Translation Platform Operations - Application Issue - Milito,Bárbara Natalin (1087203)",Translation Services,2024-02-28 17:19,2024-03-01 17:19,2024-02-29 22:26,2895,2895,"29-Feb-2024 11:56:09 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# hello  team, MARIA DO AMPARO ALVES <m.amparoalves@gmail.com>, get a massage from MQ, PLEASE  check attachment, Proj ID 2024/14442 Thank you
+#Resolution#  CAL license enabled for vendor and connected over Microsoft teams and assisted the vendor 
+For CAL license reactivation also for resolved project check out issue 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+28-Feb-2024 07:37:17 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  Kindly ask the vendor to try to close the Memoq and reopen and validate on TM's
+
+28-Feb-2024 07:03:27 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+28-Feb-2024 07:01:22 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and task tag updated
+
+28-Feb-2024 06:49:02 AM - Milito,Bárbara Natalin (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14615729,P16,"IQVIA Translation Platform Operations - Application Issue - Sánchez,Javier (1140476)",Translation Services,2024-02-06 18:50,2024-02-08 18:50,2024-02-06 23:17,15977,15977,"06-Feb-2024 12:47:08 PM - Kottam,Sreekanth (Work Notes)
+#Issue# < user requested for new client group creation >
+#Resolution# < we have created the new client group in xtrf. user confirmed to close the ticket. hence, we are closing the ticket. >
+
+06-Feb-2024 08:29:05 AM - Kottam,Sreekanth (Work Notes)
+#Working on# < to set up a new client group in xtrf >
+
+06-Feb-2024 08:24:01 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+06-Feb-2024 08:20:52 AM - Sánchez,Javier (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14678922,P16,"IQVIA Translation Platform – Application Issue - ITP Functionality/improvement request - Yan,Yan (1171235)",Translation Services,2024-02-28 15:27,2024-03-01 15:27,2024-03-01 17:01,14081,14081,"01-Mar-2024 06:31:45 AM - Mohan,Namitha (Work Notes)
+#Issue#  < User requested for XTRF customer Portal >
+#Resolution#  < Connected with user via teams and shared information including TS Access VIA link. User confirmed to close the ticket. Hence closing the same.>
+
+28-Feb-2024 08:51:47 AM - Mohan,Namitha (Work Notes)
+#Waitingfor# <  Tried to contact user via teams chat. Waiting for user response to check more on the issue. >
+
+28-Feb-2024 06:00:26 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+28-Feb-2024 05:02:59 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+28-Feb-2024 04:57:06 AM - Yan,Yan (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14657245,P16,"IQVIA Translation Platform Operations - Application Issue - Bhingardive,Pravin (1162297)",Translation Services,2024-02-21 17:22,2024-02-23 17:22,2024-02-21 22:22,17989,17989,"21-Feb-2024 10:22:36 PM - Kottam,Sreekanth (Work Notes)
+#Issue# <linguist was not able to open file in memoq>
+#Resolution# < user confirmed that issue has been resolved from user end. hence, closing the ticket>
+
+21-Feb-2024 07:02:28 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# <working on this ticket>
+
+21-Feb-2024 05:43:41 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# <Accepted by Sreekanth, and updated CI and Task Tag>
+
+21-Feb-2024 05:22:48 PM - Bhingardive,Pravin (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14605033,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Byun,DaJung (1050512)",Translation Services,2024-02-02 13:48,2024-02-06 13:48,2024-02-08 15:40,12347,12347,"08-Feb-2024 05:10:47 AM - A,Vaishnavi (Work Notes)
+#Issue# <User reported that she is not able to see any old projects in Client portal>
+#Resolution# <When checked we found that user was using Client portal under Inactive Client group. We have sent welcome email from the active group and post that after registration user is able to see all needed projects in Client portal. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+07-Feb-2024 12:01:40 PM - A,Vaishnavi (Work Notes)
+#Waitingfor# <Pinged user with information needed, Waiting for the confirmation>
+
+05-Feb-2024 09:38:09 AM - A,Vaishnavi (Work Notes)
+#Waitingfor# <Pinged user with information needed, Waiting for the confirmation>
+
+02-Feb-2024 06:44:02 AM - A,Vaishnavi (Work Notes)
+#Waitingfor# <Pinged the user on MS Team for more information on the issue mentioned. Waiting for the reply>
+
+02-Feb-2024 04:29:03 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+02-Feb-2024 04:27:01 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+02-Feb-2024 03:18:15 AM - Byun,DaJung (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14653491,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Sunar,Sila (1164219)",Machine Translation Portal Prod,2024-02-20 17:56,2024-02-22 17:56,2024-02-20 18:26,1776,1776,"20-Feb-2024 07:56:02 AM - Mohan,Namitha (Work Notes)
+#Issue#  User not able to login to the Linguamatic Translate Portal. 
+#Resolution#  Verified the issue and found that user had no access to the platform. User confirmed that user able to login to the platform once the access was provided. Hence closing the ticket.
+
+20-Feb-2024 07:41:44 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+20-Feb-2024 07:40:32 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+20-Feb-2024 07:26:26 AM - Sunar,Sila (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14612928,P16,"IQVIA Translation Platform Operations - Application Issue - Palmigiano,Pasquale (1172976)",Translation Services,2024-02-05 23:49,2024-02-07 23:49,2024-02-07 1:43,40855,40855,"06-Feb-2024 03:13:50 PM - S Annigeri,Shivashankar (Work Notes)
+#issue#  Please provide memoQ credentials and access for 2 new vendors in XTRF: Christiane Klauss - christiane.klauss@gmail.com - P002732 | 
+Louise Kerrigan - louise@lucioli.co.uk - P002736
+#Resolution# As per request MemoQ Vendor access has been provided for below vendor accounts and associated email ID's also mentioned below Christiane Klauss - christiane.klauss@gmail.com - P002732
+Louise Kerrigan - louise@lucioli.co.uk - P002736
+
+06-Feb-2024 12:40:42 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor# We are working on MemoQ access once created will update back
+
+05-Feb-2024 01:23:27 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+05-Feb-2024 01:22:30 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+05-Feb-2024 01:19:47 PM - Palmigiano,Pasquale (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14667035,P16,C:\ Label:  F2EA78F0 on ca2stmsa03q is 96 % full,ca2stmsa03q,2024-02-24 5:47,2024-02-28 3:30,2024-02-27 23:43,0,2312,"27-Feb-2024 01:13:31 PM - Sharma,Ashutosh (Work Notes)
+#Issue#< C:\ Label:  F2EA78F0 on ca2stmsa03q is 96 % full>
+#Resolution#< We checked the C drive for server ca2stmsa03q , still space is available  ,So we are closing the ticket.>
+
+23-Feb-2024 07:55:58 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+23-Feb-2024 07:55:19 PM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+23-Feb-2024 07:47:07 PM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+23-Feb-2024 07:17:27 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: C:\ Label:  F2EA78F0 on ca2stmsa03q is 96 % full
+Started At: Fri Feb 23 2024 16:17:04 GMT-0800 (PST)
+Configuration Item: ca2stmsa03q
+Application: ca2stmsa03q::C:\ Label:  F2EA78F0::e3c2025c-882e-4799-86a1-64823c8615cb::2/23/2024::RuleOS4BOF
+Object: ca2stmsa03q
+Instance: Disk 95+
+Sourcegroup: Orion
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d93580ca01c963d0828278"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d93580ca01c963d0828278/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/Infinity"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14616059,P16,Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found,Translation Services,2024-02-06 20:16,2024-02-08 20:16,2024-02-07 14:22,65138,65138,"07-Feb-2024 03:52:24 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found>
+#Rresolution# <Generally we need to restart the memo Q to up but memo Q service come up automatically in few minutes and responding accordingly>
+
+06-Feb-2024 09:51:52 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+06-Feb-2024 09:51:20 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+06-Feb-2024 09:46:58 AM - Account,Integration (Work Notes)
+
+Alert Summary:
+0 Critical, 1 Warning, 0 Resolved
+
+Alert 1 of 1 
+Status: Warning 
+host: ca2stmsa02p 
+Description: Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found 
+Started At: Tue Feb 06 2024 6:46 AM 
+Configuration Item: ca2stmsa02p
+Sourcegroup: Splunk-Event
+Application: memoQServer
+Object: ca2stmsa02p
+Instance: Splunk_memoQServer,KB0027348
+Splunk Raw: 2024.02.06 09:41:40.0496074 MemoQ service interface (Error) (?) (117,117) General error.
+TYPE:
+System.Data.SqlClient.SqlException
+MESSAGE:
+Transaction (Process ID 67) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+SOURCE:
+.Net SqlClient Data Provider
+CALL STACK:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExcep
+------------------------------------------
+
+[code]<p><a title=""Link"" href=""https://a.bigpanda.io/#/app/overview/5dc1f22c795ff06a135c3ec3/active/incidents/65c246400950663a654734e5?bp_source=snow"" target=""_blank"">Link to BigPanda Event</a></p>[/code]
+[code]<p><a title=""Link"" href=""https://a.bigpanda.io/#/app/overview/5dc1f22c795ff06a135c3ec3/active/incidents/65c246400950663a654734e5/timeline"" target=""_blank"">Link to BigPanda Event Timeline</a></p>[/code]
+
+
+06-Feb-2024 09:46:47 AM - Account,Integration (Work Notes)
+
+Alert Summary:
+0 Critical, 1 Warning, 0 Resolved
+
+Alert 1 of 1 
+Status: Warning 
+host: ca2stmsa02p 
+Description: Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found 
+Started At: Tue Feb 06 2024 6:46 AM 
+Configuration Item: ca2stmsa02p
+Sourcegroup: Splunk-Event
+Application: memoQServer
+Object: ca2stmsa02p
+Instance: Splunk_memoQServer,KB0027348
+Splunk Raw: 2024.02.06 09:41:40.0496074 MemoQ service interface (Error) (?) (117,117) General error.
+TYPE:
+System.Data.SqlClient.SqlException
+MESSAGE:
+Transaction (Process ID 67) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+SOURCE:
+.Net SqlClient Data Provider
+CALL STACK:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExcep
+------------------------------------------
+
+[code]<p><a title=""Link"" href=""https://a.bigpanda.io/#/app/overview/5dc1f22c795ff06a135c3ec3/active/incidents/65c246400950663a654734e5?bp_source=snow"" target=""_blank"">Link to BigPanda Event</a></p>[/code]
+[code]<p><a title=""Link"" href=""https://a.bigpanda.io/#/app/overview/5dc1f22c795ff06a135c3ec3/active/incidents/65c246400950663a654734e5/timeline"" target=""_blank"">Link to BigPanda Event Timeline</a></p>[/code]
+
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14627226,P16,"IQVIA Translation Platform Operations - Application Issue - Martin,David (1084619)",Translation Services,2024-02-09 21:38,2024-02-13 21:38,2024-02-10 0:35,10635,10635,"09-Feb-2024 02:05:27 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# Hi team! My user seems not to be working. When I try to put in my credentials, an error pops up saying that my user or my password are invalid. Could you please check? Thanks!
+#Resolution# MemoQ account validated , triggered password reset email for user account and now user is able to able to login
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+09-Feb-2024 11:22:08 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+09-Feb-2024 11:20:52 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+09-Feb-2024 11:08:13 AM - Martin,David (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14616510,P16,"IQVIA Translation Platform Operations - Application Issue - Ayala,Eliana (1141129)",Translation Services,2024-02-06 22:06,2024-02-08 22:06,2024-02-08 17:56,3663,3663,"08-Feb-2024 07:26:56 AM - Sharma,Ashutosh (Work Notes)
+#Issue# hi team! Please could you assist? memory is giving an error when PM tries to confirm all segments. When attempting to repair the memory, the error on picture two pops up. Thanks!
+#Resolution# After the TM repair it worked , user was able to confirm all segments ,Hence closing the ticket
+
+06-Feb-2024 12:37:17 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor# Need to have call with user.
+
+06-Feb-2024 11:42:36 AM - Sharma,Ashutosh (Work Notes)
+#Workingon# Started working on the request.
+
+06-Feb-2024 11:41:53 AM - Sharma,Ashutosh (Work Notes)
+#Accepted# Accepted by Ashutosh Sharma
+
+06-Feb-2024 11:36:14 AM - Ayala,Eliana (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14636338,P16,Customer Follow Up for RITM21777874,Translation Services,2024-02-14 6:34,2024-02-16 6:34,2024-02-14 15:01,24540,24540,"14-Feb-2024 04:31:07 AM - Kottam,Sreekanth (Work Notes)
+#issue# < user profile not created in xtrf client portal >
+#Resolution# < user raised an RITM21777874 earlier with wrong user details, so we have informed the user the same thing and asked her to raise a new request to get the access. hence, closing the ticket >
+
+14-Feb-2024 02:53:34 AM - Kottam,Sreekanth (Work Notes)
+#Waitingfor# < we have sent an email to automation team to check the issue, waiting for the update from Automation team as bot did not create the user profile in xtrf client portal.>
+
+13-Feb-2024 08:14:03 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# < to provide xtrf client portal access >
+
+13-Feb-2024 08:09:47 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+13-Feb-2024 08:04:34 PM - Baba,Miho (Work Notes)
+The following comments were provided for RITM21777874 which was not completed to customer satisfaction:
+
+TS ITP access was allowed with RITM21777874, but I have never been able to log in. A message appears saying that you do not have permission to access it.
+
+Please review the RITM and follow up with the customer.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14676520,P16,"IQVIA Translation Platform Operations - Application Issue - Palmigiano,Pasquale (1172976)",Translation Services,2024-02-27 23:30,2024-02-29 23:30,2024-02-27 23:44,691,691,"27-Feb-2024 01:14:44 PM - Kasula,Abhilash (Work Notes)
+#Issue# User made a typo while creating a vendor's profile.
+#Resolution# Their name has been updated to Maris Abeltins from Albetins
+
+27-Feb-2024 01:11:40 PM - Kasula,Abhilash (Work Notes)
+#Workingon# I have updated the name to Maris Abeltins. Please check and confirm
+
+27-Feb-2024 01:06:31 PM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+27-Feb-2024 01:04:06 PM - Kasula,Abhilash (Work Notes)
+#Accepted# Accepted.CI and Task tag also updated
+
+27-Feb-2024 01:03:28 PM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+27-Feb-2024 01:00:09 PM - Palmigiano,Pasquale (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kasula,Abhilash (1030722)"
+INC14670776,P16,Flat file ingestion,Translation Services,2024-02-26 17:44,2024-02-28 17:41,2024-02-27 16:08,80615,80615,"27-Feb-2024 05:38:11 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< Flat file ingestion to DWH.>
+#Resolution#< we have ingested the employee_pm flat file to DWH and hence closing this ticket>
+
+26-Feb-2024 07:16:41 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+26-Feb-2024 07:15:41 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+26-Feb-2024 07:14:37 AM - Penumalla,Manikanta (Work Notes)
+[Friday 3:23 PM] Haniff, Rayid
+Hi Althaf and Mani, I have uploaded an updated version of the PM employee directory to the folder 'To be uploaded in DWH'
+[Friday 3:23 PM] Haniff, Rayid
+Can this file be ingested into the DWH and override the previous version?
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14683620,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-29 17:11,2024-03-04 17:11,2024-02-29 18:50,5953,5953,"29-Feb-2024 08:20:48 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <requested for vendor memoq access>
+#Resolution# <we have provided required memoq access, hence, closing the ticket>
+
+29-Feb-2024 07:18:15 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <working on the ticket>
+
+29-Feb-2024 06:45:01 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <accepted by Sreekanth, CI and Task Tag updated>
+
+29-Feb-2024 06:41:36 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14670627,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-26 16:57,2024-02-28 16:57,2024-02-26 19:35,9507,9507,"26-Feb-2024 09:05:32 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <requested for vendor memoq access>
+#Resolution# <we have provided the required vendor memoq access>
+
+26-Feb-2024 06:38:35 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <to provide vendor memoq access>
+
+26-Feb-2024 06:32:56 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <accepted by Sreekanth, CI and Task Tag updated>
+
+26-Feb-2024 06:27:06 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14644102,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Chang,KyongChin (813006)",Translation Services,2024-02-16 14:32,2024-02-20 14:32,2024-02-16 17:54,12130,12130,"16-Feb-2024 07:24:59 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< user is not able to see the target language while submitting the feedback>
+#Resolution#< we have verified the project and observed that existing feedback status is not moved to resolved. so we have changed the status to resolved  and user able to see the target language. Hence closing this ticket>
+
+16-Feb-2024 07:20:32 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+16-Feb-2024 04:37:12 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+16-Feb-2024 04:02:50 AM - Chang,KyongChin (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14662399,P16,"IQVIA Translation Platform Operations - Application Issue - Rosa,Jorge (1150957)",Translation Services,2024-02-22 20:16,2024-02-26 20:16,2024-02-22 21:25,4128,4128,"22-Feb-2024 10:55:08 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user is asking to add Cost Center into Drop Down List: US10283816>
+#Resolution# <we had added Cost Center into Drop Down List: US10283816>
+
+22-Feb-2024 09:58:10 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+22-Feb-2024 09:57:16 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy,updated CI,task tag>
+
+22-Feb-2024 09:46:20 AM - Rosa,Jorge (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14620551,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Cabrera,Mayra (1091224)",Machine Translation Portal Prod,2024-02-07 22:23,2024-02-09 22:23,2024-02-08 3:33,18591,18591,"07-Feb-2024 05:03:28 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# MTP the service doesn't work. It doesn't recognize the text for translation and doesn't translate anything.
+#Resolution#  After clearing the temp files/cookies form web browser MTP Access working normal, kindly check and validate 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+07-Feb-2024 12:40:05 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon#  Can you please try to clear browser history and cookies and check the MTP portal
+
+07-Feb-2024 12:04:28 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+07-Feb-2024 12:01:14 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+07-Feb-2024 11:53:38 AM - Cabrera,Mayra (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14652871,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Raya,Israa (1061720)",Translation Services,2024-02-20 15:02,2024-02-22 15:02,2024-02-20 16:04,3019,3019,"20-Feb-2024 05:34:18 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user wants to move another client>
+#Resolution# <we have moved below user Boehringer Ingelheim to Study Hub (DCT)>
+Ashley Cornelius
+
+20-Feb-2024 05:23:09 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <waitingfor rebecca approval>
+
+20-Feb-2024 04:39:29 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+20-Feb-2024 04:32:50 AM - Raya,Israa (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14641658,P16,TCERT not generating for 2024/11013,Translation Services,2024-02-15 20:15,2024-02-19 20:13,2024-02-15 20:43,1657,1657,"15-Feb-2024 10:13:08 AM - Mohan,Namitha (Work Notes)
+#Issue#  TCERT not generating for 2024/11013
+#Resolution#  TCERT generated for project 2024/11013 after restarting the TCERT job. Informed user the same and hence closing the ticket.
+
+15-Feb-2024 10:09:47 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+15-Feb-2024 09:48:02 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+15-Feb-2024 09:45:31 AM - Mohan,Namitha (Work Notes)
+TCERT not generating for 2024/11013
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14613875,P16,"IQVIA Translation Platform – Application Issue - Service Unavailable - Negishi,Kiyoka (742012)",Machine Translation Portal Prod,2024-02-06 8:41,2024-02-08 8:33,2024-02-07 8:14,85218,85218,"06-Feb-2024 09:44:04 PM - Kasula,Abhilash (Work Notes)
+#Issue# User tried to login to Language Weaver.
+#Resolution# Language Weaver application already retired and introduced MTP Linguamatic portal as you have already access to the portal, please login to https://mtp.linguamatics.com.
+
+05-Feb-2024 10:11:44 PM - Kasula,Abhilash (Work Notes)
+#Accepted# Language weaver Application is decommissioned instead of that you can use the MTP Linguamatic portal. 
+We have verified your profile in MTP portal and you have already access to the portal, please login to  https://mtp.linguamatics.com.
+
+05-Feb-2024 10:03:46 PM - Negishi,Kiyoka (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kasula,Abhilash (1030722)"
+INC14656994,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-21 16:22,2024-02-23 16:22,2024-02-21 19:57,12915,12915,"21-Feb-2024 09:27:49 AM - A,Vaishnavi (Work Notes)
+#Issue# <User requested for MemoQ access for klanguagebureau@gmail.com>
+#Resolution# <We checked and found that user already have access to MemoQ. We have sent welcome email to klanguagebureau@gmail.com. Communicated the same to Laura over MS Teams. Hence closing the Incident. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+21-Feb-2024 07:21:18 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+21-Feb-2024 05:54:54 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+21-Feb-2024 05:52:33 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14681783,P40,"IQVIA Translation Platform – Application Issue - Service Unavailable - Morimoto,Yuki (839923)",Translation Services,2024-02-29 7:55,2024-03-07 7:13,2024-02-29 8:51,5888,5888,"28-Feb-2024 10:21:13 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue#<The feedback option is not available even though the after delivery.>
+#Resolution#<As per request, we have guided the user necessary information regarding feedback. after confirmation, closing the ticket>
+
+28-Feb-2024 09:25:48 PM - Tappa,Mahammad Althaf (Work Notes)
+#Workingon#<downgrading priority as its not service down >
+
+28-Feb-2024 08:46:48 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+28-Feb-2024 08:45:54 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Incident accepted>
+
+28-Feb-2024 08:43:05 PM - Kubota,Yuki (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14604834,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Upadhyay,Dharmesh (1095779)",Translation Services,2024-02-02 12:34,2024-02-06 12:34,2024-02-02 18:23,20936,20936,"02-Feb-2024 07:53:12 AM - A,Vaishnavi (Work Notes)
+#Issue# <User reported that he is not able to do any action in Client portal>
+#Resolution# <We found that user is active and enabled options to have access on all tabs of Client portal. Now user can access with no issues. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+02-Feb-2024 02:18:24 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+02-Feb-2024 02:17:55 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+02-Feb-2024 02:04:16 AM - L Upadhyay,Dharmesh (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14626975,P16,Translator not able see the project 2024/10458,Translation Services,2024-02-09 20:31,2024-02-13 20:24,2024-02-09 20:44,816,816,"09-Feb-2024 10:14:50 AM - Mohan,Namitha (Work Notes)
+#Issue#  Translator not able see the project 2024/10458
+#Resolution#  Verified the issue and provided guidance for user to search the same. User confirmed that he is able to access the project. Hence closing the ticket.
+
+09-Feb-2024 10:02:57 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+09-Feb-2024 10:01:47 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepted by Namitha>
+
+09-Feb-2024 10:01:15 AM - Mohan,Namitha (Work Notes)
+Translator <robin@rbtranslations.dk not able see the project 2024/10458 in MemoQ. 
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14673372,P16,"IQVIA Translation Platform Operations - Application Issue - Matibag,Ian Mitchelle (1099924)",Translation Services,2024-02-27 8:16,2024-02-29 8:16,2024-02-27 13:55,6693,6693,"27-Feb-2024 03:25:36 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user facing an issue with unable to confirm the segments>
+#Resolution# <we had repaired translation memory and after that able to confirm the segments>
+
+26-Feb-2024 11:38:29 PM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <we are waiting for user reply>
+checkout new online copy and try confirming the segments again
+
+26-Feb-2024 10:58:00 PM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+26-Feb-2024 10:07:42 PM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy and update CI,task tag>
+
+26-Feb-2024 09:46:56 PM - Matibag,Ian Mitchelle (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14641599,P16,Sponsor name not updating for project 2024/11135,Translation Services,2024-02-15 19:59,2024-02-19 19:57,2024-02-15 20:13,839,839,"15-Feb-2024 09:43:37 AM - Mohan,Namitha (Work Notes)
+#Issue#  Sponsor name not updating for project 2024/11135
+#Resolution#  Verified the issue and found that project code mentioned in the project is not available in ITP. Informed user the same and redirected to operations team for the addition of project code. Hence closing the ticket
+
+15-Feb-2024 09:30:46 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+15-Feb-2024 09:30:18 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+15-Feb-2024 09:29:37 AM - Mohan,Namitha (Work Notes)
+Sponsor name not updating for project 2024/11135
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14655581,P16,"IQVIA Translation Platform Operations - Application Issue - Park,YoungHoo (1140265)",Translation Services,2024-02-21 7:02,2024-02-23 7:02,2024-02-21 14:25,26571,26571,"21-Feb-2024 02:25:29 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#<I uploaded the source file but it cannot be added in MemoQ for the reason as the attached screen shot.>
+#Resolution#<As per request, we have connected to user and informed user to upload the missing document in XTRF perform OCR step. hence the issue is resolved.>
+
+21-Feb-2024 07:07:02 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+21-Feb-2024 07:06:20 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Incident accepted>
+
+21-Feb-2024 07:02:38 AM - Park,YoungHoo (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14643869,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Joshi,Sneha (1032081)",Translation Services,2024-02-16 13:24,2024-02-20 13:24,2024-02-16 14:09,2719,2719,"16-Feb-2024 03:39:34 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#<Need to translate the Ad-hoc documents/request's>
+#Resolution#<As per request, documents has been translated from Chinese to English language and shared over email.>
+
+16-Feb-2024 03:04:40 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+16-Feb-2024 03:03:44 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Accepting this ticket>
+
+16-Feb-2024 02:54:15 AM - Joshi,Sneha (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14640507,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-15 14:19,2024-02-19 14:19,2024-02-15 14:44,1510,1510,"15-Feb-2024 02:44:15 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#<User Requested MemoQ Access>
+#Resolution#<As per request, we have provided MemoQ access and granted CAL license for mentioned user. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+15-Feb-2024 02:42:01 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+15-Feb-2024 02:21:36 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Accepting this ticket>
+
+15-Feb-2024 02:19:05 PM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14657138,P16,"IQVIA Translation Platform Operations - Application Issue - Palmigiano,Pasquale (1172976)",Translation Services,2024-02-21 16:49,2024-02-23 16:49,2024-02-22 21:36,24753,24753,"22-Feb-2024 11:06:23 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user wants to set up  memoq accounts for new vendor >
+#Resolution# <we have created memoq accounts for given list of users>
+please let me know if you have any issues
+
+21-Feb-2024 01:11:37 PM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <we had  given memoq access to given list of users>
+please check and let me know if you have any issues
+
+21-Feb-2024 07:04:23 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+21-Feb-2024 07:00:42 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <Accepted by Shekhar Reddy,updated CI and task tag >
+
+21-Feb-2024 06:19:05 AM - Palmigiano,Pasquale (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14635078,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Monachesi,Elenasophie (1079826)",Translation Services,2024-02-13 20:58,2024-02-15 20:58,2024-02-15 14:53,2927,2927,"15-Feb-2024 04:23:08 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# my ITP profile is submitting in EST time zone, my I'm settle down in GMT+1 timezone and this is a real issue for my daily work, since I received translation too late for my daily shift. I've tried to change my account preferences but they cannot be saved.
+#Resolution# User account settings has been modified to Central European Summer Time zone and validated the same over teams call 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+13-Feb-2024 11:17:45 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  As discussed over teams ,kindly check the settings and contact us back tomorrow if any further support required
+
+13-Feb-2024 10:31:54 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+13-Feb-2024 10:31:25 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+13-Feb-2024 10:28:58 AM - Monachesi,Elenasophie (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14616966,P16,"IQVIA Translation Platform – Application Issue - Service Unavailable - Simon,Krista (1082474)",Translation Services,2024-02-07 0:38,2024-02-09 0:32,2024-02-07 0:58,1542,1542,"06-Feb-2024 02:28:39 PM - S Annigeri,Shivashankar (Work Notes)
+#issue#  I am not able to access the platform ,The following message is received when I log into the translation portal: Sorry, an uncaught error appeared. Please try later or contact your administrator.
+#Resolution#  User account access settings has been modified and connected with user over teams and now Client access is working normal 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+06-Feb-2024 02:09:46 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# kindly share the url which  you are trying to access
+
+06-Feb-2024 02:08:16 PM - S Annigeri,Shivashankar (Work Notes)
+#accepted# incident accepted
+Please note that P8 is the highest priority and is reserved for cases when TS application is down or severely malfunctioning
+(for example: multiple users cannot log in). This is the reason I have changed the priority of this ticket.
+
+06-Feb-2024 02:02:58 PM - Simon,Krista (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14652986,P16,ca2stmssql01p application service issue : IVP(Critical),Translation Services,2024-02-20 15:37,2024-02-22 15:37,2024-02-20 21:23,1153,1153,"20-Feb-2024 10:53:30 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <ca2stmssql01p application service issue : IVP(Critical)>
+#Resolution# <IVP request not completed for the request ""9a96378c-8ff9-407e-a8f9-0cc4cc6b5da3""  due to  the reason No entries found for the Xpaths and user has to resubmit the request again>
+
+20-Feb-2024 05:26:53 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <IVP request not completed for the request ""9a96378c-8ff9-407e-a8f9-0cc4cc6b5da3""  due to  the reason No entries found for the Xpaths>
+
+20-Feb-2024 05:17:45 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# < accepted by Shekhar Reddy>
+
+20-Feb-2024 05:07:40 AM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: ca2stmssql01p application service issue : IVP(Critical)
+Started At: Tue Feb 20 2024 02:07:16 GMT-0800 (PST)
+Configuration Item: ca2stmssql01p
+Application: Q-IVP-Service
+Object: ca2stmssql01p
+Instance: ca2stmssql01p::IVP(Critical)::2/20/2024::RuleQC2
+Sourcegroup: OrionAPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d479d4604f0429c0b05176"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d479d4604f0429c0b05176/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/c4ce1925fde1ccbf"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14670003,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Alejo,Francis (1087011)",Translation Services,2024-02-26 14:04,2024-02-28 14:04,2024-02-26 21:55,845,845,"26-Feb-2024 11:25:52 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Please help close the project. The project was reopened due to feedback. All feedback had been resolved. However, the project remains open.
+#Resolution#  As per request we have closed the project  , Kindly check the project status and let us know if any modifications required
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+26-Feb-2024 03:48:13 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  Kindly share the project number !!
+
+26-Feb-2024 03:46:39 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+26-Feb-2024 03:45:51 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the Request and CI | task details updated
+
+26-Feb-2024 03:34:08 AM - Alejo,Francis (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14676035,P16,Vendor not able to checkout project,Translation Services,2024-02-27 21:19,2024-02-29 21:17,2024-02-27 21:23,235,235,"27-Feb-2024 10:53:28 AM - Mohan,Namitha (Work Notes)
+#Issue# <Vendor renitacc@gmail.com not able to checkout project 2024/9964 from MemoQ>
+#Resolution# <Connected with vendor via email and provided guidance to checkout project as a new copy. Vendor confirmed that the issue resolved. Hence closing the ticket. >
+
+27-Feb-2024 10:51:04 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+27-Feb-2024 10:50:07 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+27-Feb-2024 10:49:34 AM - Mohan,Namitha (Work Notes)
+Vendor renitacc@gmail.com not able to checkout project 2024/9964 from MemoQ
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14665338,P16,"IQVIA Translation Platform Operations - Application Issue - Basurto,Gisella (1172331)",Translation Services,2024-02-23 18:27,2024-02-27 18:27,2024-02-24 22:41,32524,101593,"24-Feb-2024 12:11:09 PM - Kottam,Sreekanth (Work Notes)
+#Issue# <requested for vendor memoq acces>
+#Resolution# <provided required vendor memoq access for the given vendor's list. hence, closing the ticket>
+
+23-Feb-2024 08:03:13 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <to provide vendor memoq access>
+
+23-Feb-2024 08:02:22 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <Accepted by Sreekanth and updated CI & Task tag>
+
+23-Feb-2024 07:57:56 AM - Basurto,Gisella (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14626461,P16,"IQVIA Translation Platform Operations - Application Issue - Pérez,Clara (1148803)",Translation Services,2024-02-09 17:42,2024-02-13 17:42,2024-02-09 18:26,2618,2618,"09-Feb-2024 07:56:32 AM - Mohan,Namitha (Work Notes)
+#Issue# Please provide memoQ access and credentials for new vendor recently added to XTRF:
+- Maneo Thamae (P002746), phoebethamae@gmail.com
+#Resolution# <As per request we provided MemoQ access and granted CAL license for user P002746. Password reset mail sent to user. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+09-Feb-2024 07:16:34 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+09-Feb-2024 07:15:06 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepted by Namitha>
+
+09-Feb-2024 07:14:34 AM - Mohan,Namitha (Work Notes)
+Accepted
+
+09-Feb-2024 07:12:54 AM - Pérez,Clara (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14674710,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-27 15:39,2024-02-29 15:39,2024-02-27 20:06,15984,15984,"27-Feb-2024 09:36:11 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Memoq request access for the following vendor - Monica Neri (email: monica@mntranslating.com, XTRF ID: P002808)
+#Resolution#  As per request We have provided MemoQ Vendor  access to Monica Neri , with registered email id  monica@mntranslating.com
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+27-Feb-2024 05:14:10 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+27-Feb-2024 05:13:45 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and task tag updated
+
+27-Feb-2024 05:09:47 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14683662,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-29 17:24,2024-03-04 17:24,2024-02-29 18:43,995,995,"29-Feb-2024 08:13:05 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< Memoq access request for the following vendor - Mabel Lima (>
+#Resolution#< we have created the memoq vendor account as requested and hence closing this ticket>
+
+29-Feb-2024 07:11:19 AM - Penumalla,Manikanta (Work Notes)
+#Waitingfor#< Waiting for the status from user>
+
+29-Feb-2024 07:02:29 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+29-Feb-2024 07:01:12 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+29-Feb-2024 06:54:44 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14617708,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Taylor,Todd (1063519)",Machine Translation Portal Prod,2024-02-07 7:59,2024-02-09 7:59,2024-02-07 9:49,6601,6601,"06-Feb-2024 11:19:14 PM - Kasula,Abhilash (Work Notes)
+#Issue# User not able to login MTP(linguamatics) portal.
+#Resolution# User not connected to VPN due to that reason he is not able to login, Its working fine after he connected to VPN.
+
+06-Feb-2024 09:36:10 PM - Kasula,Abhilash (Work Notes)
+#Accepted# Looking into the issue
+
+06-Feb-2024 09:29:13 PM - Taylor,Todd (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kasula,Abhilash (1030722)"
+INC14606090,P16,"cannot close a project in MemoQ - Dalumpines,Runelyn (1122470) (General Issue - Information Technology)",Translation Services,2024-02-02 19:43,2024-02-06 19:43,2024-02-02 21:28,6265,6265,"02-Feb-2024 09:28:12 PM - Kottam,Sreekanth (Work Notes)
+#Issue# < not able to close the project in memoq >
+#Resolution# < after we have checked the project, we informed the user to complete the task then only the project can be closed in memoq >
+
+02-Feb-2024 07:59:24 PM - Kottam,Sreekanth (Work Notes)
+#Working on # < to close the project in memoq >
+
+02-Feb-2024 07:45:22 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+02-Feb-2024 07:43:47 PM - Dalumpines,Runelyn (Work Notes)
+For details of the issue, please see the Information from VIA tab
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14658168,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-21 21:28,2024-02-23 21:28,2024-02-21 22:40,4298,4298,"21-Feb-2024 12:10:05 PM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user wants memoq access>
+#Resolution# <we had  created memoq account for below vendor successfully>
+P002789 (khush_74@yahoo.com)
+
+21-Feb-2024 11:30:53 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+21-Feb-2024 11:26:21 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy,Updated CI,task Tag>
+
+21-Feb-2024 10:58:27 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14653773,P16,"IQVIA Translation Platform Operations - Application Issue - Lorenzotti,Alessandro (1022135)",Translation Services,2024-02-20 19:14,2024-02-22 19:14,2024-02-21 16:30,76601,76601,"21-Feb-2024 06:00:48 AM - A,Vaishnavi (Work Notes)
+#Issue# <User reported issue in MemoQ app>
+#Resolution# <User is no more having any issue with MemoQ and asked us to close the Incident. Hence closing it, On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+20-Feb-2024 09:08:07 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+20-Feb-2024 09:07:42 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+20-Feb-2024 08:44:07 AM - Lorenzotti,Alessandro (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14655125,P16,"Please provide uploaded files in Project finalization step in Translation project 2022/34114 in XTRF, thanks! - Gonzalez,Gilda (1099758) (General Issue - Information Technology)",Translation Services,2024-02-21 2:08,2024-02-23 2:08,2024-02-22 21:44,71014,71014,"22-Feb-2024 11:14:29 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user wants 2022/34114 Recover files>
+#Resolution# <we had recovered the files and handover to user>
+
+21-Feb-2024 11:22:06 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <Recovered files and handover to user>
+
+21-Feb-2024 10:04:02 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+21-Feb-2024 10:00:09 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy,updated CI,task tag>
+
+21-Feb-2024 09:30:46 AM - Pathan,Roshni (Work Notes)
+Assigning to TMS Production Support Team,
+please check and assist on it:
+""Please provide uploaded files in Project finalization step in Translation project 2022/34114 in XTRF, thanks!""
+
+20-Feb-2024 03:38:33 PM - Gonzalez,Gilda (Work Notes)
+For details of the issue, please see the Information from VIA tab
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14620029,P16,"IQVIA Translation Platform Operations - Application Issue - Fasulo,Silvia (1060844)",Translation Services,2024-02-07 20:32,2024-02-09 20:32,2024-02-07 22:16,6270,6270,"07-Feb-2024 10:16:32 PM - Sharma,Ashutosh (Work Notes)
+#Issue# Hi, I'm having issues with QA reports in memoQ. Whenever I run the QA, the report doesn't actually open. Could you please help me fix this? Thank you
+#Resolution# User has unchecked the Proceed to reslove warning after QA from the Run QA  by mistake after checked QA reports are opening , hence closin the tiket .
+
+07-Feb-2024 08:45:14 PM - Sharma,Ashutosh (Work Notes)
+#Workingon# Started working on the request.
+
+07-Feb-2024 08:44:52 PM - Sharma,Ashutosh (Work Notes)
+#Accepted# Accepted by Ashutosh Sharma
+
+07-Feb-2024 08:32:03 PM - Fasulo,Silvia (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14657717,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-21 19:36,2024-02-23 19:36,2024-02-21 22:19,9811,9811,"21-Feb-2024 11:49:49 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <requested for vendor Memoq access>
+#Resolution# <we have provided required memoq access in memoq>
+
+21-Feb-2024 09:17:22 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <working on to provide vendor memoq access>
+
+21-Feb-2024 09:15:55 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <Accepted by Sreekanth, and updated CI and Task Tag>
+
+21-Feb-2024 09:06:18 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14679880,P16,"IQVIA Translation Platform Operations - Application Issue - Cabrera,Mara Angelie (1098165)",Translation Services,2024-02-28 19:33,2024-03-01 19:33,2024-02-28 19:55,1314,1314,"28-Feb-2024 09:25:19 AM - Mohan,Namitha (Work Notes)
+#Issue#  could not export the file  for project 2024/15477
+#Resolution#   Verified the issue and shared the exported file with user , from duplicate project created in which all TMs are aligned with the original project. User confirmed that the issue resolved. Hence closing the ticket.
+
+28-Feb-2024 09:05:37 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+28-Feb-2024 09:04:57 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+28-Feb-2024 09:03:27 AM - Cabrera,Mara Angelie (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14614353,P16,"IQVIA Translation Platform Operations - Application Issue - Mandapalli,Charis David (1078646)",Translation Services,2024-02-06 12:22,2024-02-08 12:22,2024-02-08 13:43,826,826,"08-Feb-2024 03:13:15 AM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user wants to upload 3 files in ABBYY >
+#Resolution# <we have uploaded attached files in Production ABBYY server>
+
+06-Feb-2024 02:05:51 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <we have uploaded attached files in production ABBYY server>
+
+06-Feb-2024 01:58:52 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted#  <accepted by Shekhar Reddy>
+
+06-Feb-2024 01:52:06 AM - Mandapalli,Charis David (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14635897,P16,Transaction step  in Core_Linguamatics translate_Support from Cal5-2022 is Down. Reason: Step 'Sign in to your account' failed: No text was inserted.,Machine Translation Portal Prod,2024-02-14 1:49,2024-02-16 1:49,2024-02-15 3:55,1042,1042,"14-Feb-2024 05:25:08 PM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <Transaction step  in Core_Linguamatics translate_Support from Cal5-2022 is Down. Reason: Step 'Sign in to your account' failed>
+#Resolution# <we had verified (https://mtp.linguamatics.com) linguamatics working fine without any issues>
+
+14-Feb-2024 02:57:14 AM - Madaiah K P,Shanthu (Work Notes)
+Repeated alert
+Please assist
+
+13-Feb-2024 03:37:09 PM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <MTP portal is working fine>
+
+13-Feb-2024 03:36:19 PM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+13-Feb-2024 03:22:58 PM - N,Mohan (Work Notes)
+https://mtp.linguamatics.com
+We Didn't Get the Expected Output as per the check list Kindy check and assist ,PFA
+
+13-Feb-2024 03:19:47 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 2 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 2
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: Transaction step  in Core_Linguamatics translate_Support from Cal5-2022 is Down. Reason: Step 'Sign in to your account' failed: No text was inserted.
+Started At: Tue Feb 13 2024 12:08:18 GMT-0800 (PST)
+Configuration Item: Machine Translation Portal Prod
+Application: Core_Linguamatics translate_Support from Cal5-2022
+Object: Core_Linguamatics translate_Support from Cal5-2022
+Instance: Core_Linguamatics translate_Support from Cal5-2022::2/13/2024::RuleTR2SV
+Sourcegroup: OrionWPMService
+
+Alert: 2 / 2
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: Transaction Core_Linguamatics translate_Support from Cal5-2022 is Down. Reason: Step 'Sign in to your account' failed: No text was inserted.
+Started At: Tue Feb 13 2024 12:18:17 GMT-0800 (PST)
+Configuration Item: Machine Translation Portal Prod
+Application: Core_Linguamatics translate_Support from Cal5-2022
+Object: Core_Linguamatics translate_Support from Cal5-2022
+Instance: Transaction Core_Linguamatics translate_Support from Cal5-2022::2/13/2024::RuleTR1SV
+Sourcegroup: OrionWPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65cbcc32ecd7f875b48fb007"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65cbcc32ecd7f875b48fb007/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/143486628d006e42"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14664236,P16,"IQVIA Translation Platform Operations - Application Issue - Yang,Xin (1050677)",Translation Services,2024-02-23 11:30,2024-02-27 11:30,2024-02-29 18:49,655,655,"29-Feb-2024 08:19:32 AM - Mohan,Namitha (Work Notes)
+#Issue# < User not able to access vendor portal web page properly, It appears  as black and white
+#Resolution# < Provided guidance for clearing cache and cookies via email. User confirmed that the issue resolved. Hence closing the ticket.
+
+28-Feb-2024 09:26:55 AM - Mohan,Namitha (Work Notes)
+#Waitingfor# <  Shared the issue resolution steps to user via email. Waiting for user response. >
+
+27-Feb-2024 08:24:50 AM - Mohan,Namitha (Work Notes)
+#Waitingfor# <  Tried to contact user via teams chat. User not responding. >
+
+23-Feb-2024 01:11:46 AM - Mohan,Namitha (Work Notes)
+#Waitingfor# <  Contacted user via Teams chat. Waiting for user response. >
+
+23-Feb-2024 01:10:57 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+23-Feb-2024 01:08:41 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+23-Feb-2024 01:00:51 AM - Yang,Xin (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14626804,P16,Translator not able to checkout project 2024/9742,Translation Services,2024-02-09 20:20,2024-02-13 19:32,2024-02-09 20:24,225,225,"09-Feb-2024 09:54:33 AM - Mohan,Namitha (Work Notes)
+#Issue# Translator not able to checkout project 2024/9742
+#Resolution#  Translator was not able to checkout the project due to long file name, and issue resolved after reducing the file name. Hence closing the ticket.
+
+09-Feb-2024 09:51:51 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+09-Feb-2024 09:51:21 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepted by Namitha>
+
+09-Feb-2024 09:50:49 AM - Mohan,Namitha (Work Notes)
+Translator not able to checkout project 2024/9742 from MemoQ and gets the attached error. 
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14605424,P16,"IQVIA Translation Platform Operations - Application Issue - Ren,Belle (1171850)",Translation Services,2024-02-02 16:04,2024-02-06 16:04,2024-02-02 16:34,1808,1808,"02-Feb-2024 06:04:39 AM - Kottam,Sreekanth (Work Notes)
+#Issue# < vendor hasn't able to see the work files from his vendor portal account >
+#Resolution# < when we check for the files form vendor account the files are available, we confirmed with user as he was able to see the files now. hence, closing the ticket >
+
+02-Feb-2024 05:55:15 AM - Kottam,Sreekanth (Work Notes)
+#Working on# < to resolve the issue >
+
+02-Feb-2024 05:54:15 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+02-Feb-2024 05:34:31 AM - Ren,Wen (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14629468,P16,"IQVIA Machine Translations Platform Operations Application Issue - General Info - Harugeri,Ananda (816752)",Machine Translation Portal Prod,2024-02-12 0:22,2024-02-14 3:30,2024-02-14 12:43,40693,51929,"14-Feb-2024 02:13:05 AM - Kottam,Sreekanth (Work Notes)
+#Issue# < user requested for fact sheet for MTP translations >
+#Resolution# < we have shared required details to the user. user confirmed to the close the ticket. hence, closing the ticket >
+
+12-Feb-2024 04:18:13 AM - Kottam,Sreekanth (Work Notes)
+#Waitingfor# < we have shared the url to the user and explained the doubts which user asked in teams chat, and waiting for user confirmation to close the ticket >
+
+12-Feb-2024 04:15:33 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# < we are working on this ticket >
+
+11-Feb-2024 06:55:02 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < accepted to work on the ticket >
+
+11-Feb-2024 01:52:44 PM - Harugeri,Ananda (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14610427,P16,"IQVIA Translation Platform Operations - Application Issue - Chavan,Rahul (1160573)",Machine Translation Portal Prod,2024-02-05 13:35,2024-02-07 13:35,2024-02-05 18:14,16695,16695,"05-Feb-2024 07:44:03 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Issue# <I am unable to upload the source file on IQ lingua portal. When i tried to add file, it is showing error ' Failed to upload'>
+#Resolution# <As per request, after clearing the cache and cookies user issue has been resolved. Hence closing the ticket.>
+
+05-Feb-2024 03:23:40 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+05-Feb-2024 03:23:10 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+05-Feb-2024 03:05:49 AM - Chavan,Rahul (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14670128,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-26 14:40,2024-02-28 14:40,2024-02-29 18:39,74473,74473,"29-Feb-2024 08:09:26 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< Addition of a new language to XTRF - English (India).>
+#Resolution#< we have added the English (India) for the requested clients and hence closing this ticket>
+
+28-Feb-2024 08:15:17 AM - Penumalla,Manikanta (Work Notes)
+Hi @Różycka,Eliza (1155257),
+
+we have added the English (India) language to requested clients. please check it once.
+
+27-Feb-2024 12:51:24 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <we will check with Jose,once he get approved and we will proceed to add new language English (India)>
+
+26-Feb-2024 04:13:47 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+26-Feb-2024 04:12:38 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy and updated CI,task tag>
+
+26-Feb-2024 04:10:11 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14657827,P16,"IQVIA Translation Platform Operations - Application Issue - López,Ana Laura (1143315)",Translation Services,2024-02-21 20:05,2024-02-23 20:05,2024-02-22 17:17,76331,76331,"22-Feb-2024 06:47:15 AM - A,Vaishnavi (Work Notes)
+#Issue# <User was asking for MemoQ access>
+#Resolution# <We have provided MemoQ access and informed the same to Laura. Kindly follow the welcome email to sign in to MemoQ. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+21-Feb-2024 09:49:20 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+21-Feb-2024 09:48:05 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+21-Feb-2024 09:35:04 AM - López,Ana Laura (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14640204,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Senga,Ami (829965)",Machine Translation Portal Prod,2024-02-15 12:25,2024-02-19 12:25,2024-02-21 21:37,8540,8540,"21-Feb-2024 11:07:19 AM - Sharma,Ashutosh (Work Notes)
+#Issue#< IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Senga,Ami (829965)>
+#Resolution#< We have checked the  user account & shared MTP application URL link ,later user was able to access ,Hence closing the ticket >
+
+19-Feb-2024 11:57:54 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#<Please try with below link 
+ https://mtp.linguamatics.com/>
+
+15-Feb-2024 04:24:41 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Hi Ami , You alreday have account in MTP application.>
+
+15-Feb-2024 04:17:38 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Language weaver Application is decommissioned instead of that you can use , MTP Linguamatic portal. Kindly raise the VIA request for the MTP portal access. 
+Here is the VIA link for MTP access: https://support.iqvia.com/via?id=sc_cat_item&sys_id=ca312578dbc2c910214a87c813961961>
+
+15-Feb-2024 03:06:17 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+15-Feb-2024 02:04:24 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+15-Feb-2024 01:55:19 AM - Senga,Ami (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14647132,P16,C:\ Label:  02F168DC on ca2stmsa02p is 99 % full,Translation Services,2024-02-18 8:28,2024-02-21 3:30,2024-02-19 1:07,0,24436,"18-Feb-2024 02:37:07 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# Description: C:\ Label: 02F168DC on ca2stmsa02p is 99 % full
+#Resolution#   After clearing temp files disk space threshold is reduced/Normal now
+Kindly write back to us if any concern.  TMSProductionSupport@quintiles.com
+
+17-Feb-2024 09:59:08 PM - Tappa,Mahammad Althaf (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+17-Feb-2024 09:58:16 PM - Tappa,Mahammad Althaf (Work Notes)
+#Workingon#< Working on this ticket>
+
+17-Feb-2024 09:57:05 PM - Tappa,Mahammad Althaf (Work Notes)
+#Accepted#<Accepting this ticket>
+
+17-Feb-2024 03:11:52 PM - Account,Integration (Work Notes)
+Alert Summary: 1 Critical, 0 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Critical
+Source: solarwinds_v2.solarwinds_orion
+Description: C:\ Label:  02F168DC on ca2stmsa02p is 99 % full
+Started At: Sat Feb 17 2024 12:11:30 GMT-0800 (PST)
+Configuration Item: ca2stmsa02p
+Application: ca2stmsa02p::C:\ Label:  02F168DC::23ffca4c-f504-4b41-905d-9125cc878d2a::2/17/2024::RuleOS5BOF
+Object: ca2stmsa02p
+Instance: Disk 98%+
+Sourcegroup: Orion
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d112f2fd206c5761735e7a"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d112f2fd206c5761735e7a/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/17d9e7d7872726bc"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14670015,P16,"IQVIA Translation Platform Operations - Application Issue - Pérez,Clara (1148803)",Translation Services,2024-02-26 14:08,2024-02-28 14:08,2024-02-26 19:19,18636,18636,"26-Feb-2024 08:49:12 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <to provide vendor memoq access>
+#Resolution# <we have provided required vendor memoq access>
+
+26-Feb-2024 05:28:03 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <to provide vendor memoq access>
+
+26-Feb-2024 03:47:31 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <accepted by Sreekanth, updated CI and Task Tag>
+
+26-Feb-2024 03:38:36 AM - Pérez,Clara (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14630529,P16,"IQVIA Translation Platform Operations - Application Issue - Rosa,Jorge (1150957)",Translation Services,2024-02-12 15:03,2024-02-14 15:03,2024-02-12 15:13,644,644,"12-Feb-2024 04:43:51 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#issue#: Please add the following SBU/Department to xtrf drop down list: 417/324013
+#Resolution#: As per request, the requested SBU code has been added.
+
+12-Feb-2024 04:37:46 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon# We are working on this request
+
+12-Feb-2024 04:35:58 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted# Accepting this ticket
+
+12-Feb-2024 04:35:15 AM - Kasula,Abhilash (Work Notes)
+#Accepted# Accepted and working on it
+
+12-Feb-2024 04:33:06 AM - Rosa,Jorge (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14684807,P16,Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found,Translation Services,2024-02-29 22:02,2024-03-04 22:02,2024-02-29 23:08,3951,3951,"29-Feb-2024 12:38:15 PM - S Annigeri,Shivashankar (Work Notes)
+#Issue# PROD : MemoQ Server : SQL deadlocks messages found..
+#Resolution#  There were many automated actions are running, server time out error due to SQL deadlock , Monitored MemoQ and found that it is working fine without SQL Dead lock errors.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+29-Feb-2024 11:36:29 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+29-Feb-2024 11:35:22 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and task tag updated
+
+29-Feb-2024 11:32:24 AM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: api.splunk_script
+Description: Translations Monitoring : PROD : memoQServer : SQL deadlocks messages found
+Started At: Thu Feb 29 2024 08:32:02 GMT-0800 (PST)
+Configuration Item: Translation Services
+Application: memoQServer
+Object: ca2stmsa02p
+Instance: Splunk_memoQServer,KB0027348
+Sourcegroup: Splunk-Event
+Splunk Raw: 2024.02.29 11:21:24.3242817 <Unknown> (Error) (admin) (149,149) General error.
+TYPE:
+System.Data.SqlClient.SqlException
+MESSAGE:
+Transaction (Process ID 67) was deadlocked on lock resources with another process and has been chosen as the deadlock victim. Rerun the transaction.
+SOURCE:
+.Net SqlClient Data Provider
+CALL STACK:
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWar
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65e0b182ca01c963d0121f85"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65e0b182ca01c963d0121f85/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/86327fdf6bb71293"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14684897,P16,"IQVIA Translation Platform Operations - Application Issue - Pérez,Clara (1148803)",Translation Services,2024-02-29 22:26,2024-03-04 22:26,2024-02-29 22:47,1312,1312,"29-Feb-2024 12:17:59 PM - Mohan,Namitha (Work Notes)
+#Issue#  <Access to MemoQ requested for the following vendors:
+- Rana Maher Hasan (P002804), dr.rana_maher@hotmail.com
+- Omnia Elsiri (P002807), dromniaelsiri@gmail.com
+- Radha Verma (P002823), radhavermajbp@gmail.com
+- Sara Hamed El-Saadany (P002825), sarah.elsaadany@yahoo.com
+#Resolution#  <As per request we provided MemoQ access and granted CAL license for the mentioned users. Password reset mail sent to users. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+29-Feb-2024 12:05:13 PM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+29-Feb-2024 12:02:50 PM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+29-Feb-2024 11:56:07 AM - Pérez,Clara (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14634711,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-13 19:16,2024-02-15 19:16,2024-02-13 19:42,1559,1559,"13-Feb-2024 09:12:25 AM - Mohan,Namitha (Work Notes)
+#Issue#  Memoq access request for the following vendor - Nawalage Kalana Shenal Cooray (XTRF ID: P002167, email: coorayshenal@gmail.com)
+#Resolution#  As per request we provided MemoQ access and granted CAL license for user P002617. Password reset mail sent to user. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+13-Feb-2024 08:57:20 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+13-Feb-2024 08:56:19 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+13-Feb-2024 08:46:27 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14652619,P16,"Vendor   Peter Barr  not able to work with Memoq project , please assist ",Translation Services,2024-02-20 13:52,2024-02-22 13:50,2024-02-20 22:18,30356,30356,"20-Feb-2024 11:48:47 AM - S Annigeri,Shivashankar (Work Notes)
+#issue#  Vendor   Peter Barr  not able to work with Memoq project , please assist
+#Resolution#: We have shared the steps to check out/synchronize the project and validated the project details over Memoq , Now vendor can access the project .
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+20-Feb-2024 03:24:20 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+20-Feb-2024 03:22:52 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14667066,P16,C:\ Label:  F2EA78F0 on ca2stmsa03c is 95 % full,ca2stmsa03c,2024-02-24 6:02,2024-02-28 3:30,2024-02-27 18:22,0,1498,"27-Feb-2024 08:05:13 AM - Sharma,Ashutosh (Work Notes)
+Update.
+
+27-Feb-2024 07:52:54 AM - Sharma,Ashutosh (Work Notes)
+#Issue#< C:\ Label:  F2EA78F0 on ca2stmsa03c is 95 % full>
+#Resolution#< We checked the C drive for server ca2stmsa03c,  After clearing temp files disk space threshold is reduced, Now space free ,So we are closing the ticket.>
+
+23-Feb-2024 07:57:36 PM - Sharma,Ashutosh (Work Notes)
+.#Waitingfor#< Waiting for the status>
+
+23-Feb-2024 07:56:14 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+23-Feb-2024 07:55:01 PM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+23-Feb-2024 07:49:47 PM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+23-Feb-2024 07:32:38 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: C:\ Label:  F2EA78F0 on ca2stmsa03c is 95 % full
+Started At: Fri Feb 23 2024 16:32:20 GMT-0800 (PST)
+Configuration Item: ca2stmsa03c
+Application: ca2stmsa03c::C:\ Label:  F2EA78F0::e3c2025c-882e-4799-86a1-64823c8615cb::2/23/2024::RuleOS4BOF
+Object: ca2stmsa03c
+Instance: Disk 95+
+Sourcegroup: Orion
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d9391454d64d2583b9dc56"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/60fec2eb0dede53b6b635d05/active/incidents/65d9391454d64d2583b9dc56/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/4265feeec7ae7b13"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14615445,P16,"IQVIA Translation Platform Operations - Application Issue - Manglaviti,Noemi (1061550)",Translation Services,2024-02-06 17:34,2024-02-08 17:34,2024-02-07 22:27,20138,20138,"07-Feb-2024 10:27:59 PM - Sharma,Ashutosh (Work Notes)
+#Issue# Hi, can you please check why project 2023/92145 and 2024/181 still show as started even if all the steps are closed?
+#Resolution# Now we  have closed the both  project 2023/92145 and 2024/181 ,hence closing the ticket.
+
+06-Feb-2024 11:10:27 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor# Hi Noemi ,raised case with XTRF help desk team ,will update you once get response from them .
+
+06-Feb-2024 06:03:47 PM - Sharma,Ashutosh (Work Notes)
+#Workingon# Started working on the request.
+
+06-Feb-2024 06:03:18 PM - Sharma,Ashutosh (Work Notes)
+#Accepted# Accepted by Ashutosh Sharma
+
+06-Feb-2024 05:34:49 PM - Manglaviti,Noemi (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14669206,P16,XTRF application is not accessible,Translation Services,2024-02-26 8:54,2024-02-28 8:54,2024-02-29 22:43,4303,4303,"29-Feb-2024 12:13:54 PM - Kasula,Abhilash (Work Notes)
+#Issue# User not able to login XTRF UAT
+#Resolution# XTRF UAT application came up and running as expected now, please write back to us at TMSProductionSupport@quintiles.com if you face any issues.
+
+26-Feb-2024 02:42:33 AM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Waitingfor#<we are validating the services>
+
+25-Feb-2024 11:36:06 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Waitingfor#<we are validating the services>
+
+25-Feb-2024 10:42:08 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Workingon#<We are working on this request>
+
+25-Feb-2024 10:41:45 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Incident accepted>
+
+25-Feb-2024 10:41:17 PM - Gondimalla,Vijaya Lakshmi (Work Notes)
+#Accepted#<Incident accepted>
+
+25-Feb-2024 10:27:38 PM - G,KAVYA (Work Notes)
+URL ""https://translations-uat.quintiles.com/xtrf/"" Not loading
+PFA
+
+25-Feb-2024 10:24:23 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: Transaction Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability' failed: No element was clicked.
+Started At: Sun Feb 25 2024 19:14:03 GMT-0800 (PST)
+Configuration Item: Translation Services
+Application: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019
+Object: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019
+Instance: Transaction Core_APPIANCLOUD-UAT_Availability from Dublin1-2019::2/25/2024::RuleTR1SV
+Sourcegroup: OrionWPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65dc01fbca01c963d0102087"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65dc01fbca01c963d0102087/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/e1286f89829f40e6"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Gondimalla,Vijaya Lakshmi (1160608)"
+INC14631842,P16,"IQVIA Translation Platform Operations - Application Issue - Basurto,Gisella (1172331)",Translation Services,2024-02-12 22:04,2024-02-14 22:04,2024-02-15 0:08,15812,15812,"14-Feb-2024 01:38:08 PM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <user  wants  memo access for given list of users>
+#Resolution#  <we had created memoq accounts for given list of users>
+
+12-Feb-2024 03:57:53 PM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <memoq accounts created for given list of users>
+
+12-Feb-2024 11:49:18 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+12-Feb-2024 11:48:33 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted# <accepted by Shekhar Reddy>
+
+12-Feb-2024 11:34:22 AM - Basurto,Gisella (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14644040,P16,"IQVIA Translation Platform Operations - Application Issue - Pérez,Clara (1148803)",Translation Services,2024-02-16 14:15,2024-02-20 14:15,2024-02-19 22:20,25042,25042,"19-Feb-2024 11:50:45 AM - Sharma,Ashutosh (Work Notes)
+#Issue#< Please provide memoQ access and credentials for new vendors recently added to XTRF:
+- Maoele Seisa (P002748), maoeles@gmail.com
+- Mohd Shahid Akhtar (P002749), tarjuma@gmail.com
+- Preet Mehta (P002757), preet.mehta0701@gmail.com
+- Marwa Seleem (P002763), marwa.seleem119@gmail.com>
+#Resolution#< We have granted memoq access to above requestor with CAL activation too, Hence closing the ticket >
+
+16-Feb-2024 10:43:18 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the status from user >
+
+16-Feb-2024 03:53:55 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+16-Feb-2024 03:52:53 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+16-Feb-2024 03:45:56 AM - Pérez,Clara (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14684296,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-29 19:51,2024-03-04 19:51,2024-02-29 20:08,985,985,"29-Feb-2024 09:38:16 AM - Mohan,Namitha (Work Notes)
+#Issue# <Access to MemoQ requested for the following vendor:
+ Ricardo de Robina Cordera (email: ricderob@gmail.com, XTRF ID: P002826)
+#Resolution# <As per request we provided MemoQ access and granted CAL license for user P002826. Password reset mail sent to user. Hence closing the ticket.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com>
+
+29-Feb-2024 09:24:25 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+29-Feb-2024 09:24:20 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+29-Feb-2024 09:23:58 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and task tag updated
+
+29-Feb-2024 09:21:51 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14633913,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - G,B Venu (1098620)",Translation Services,2024-02-13 15:03,2024-02-15 15:03,2024-02-13 23:39,30982,30982,"13-Feb-2024 01:09:56 PM - S Annigeri,Shivashankar (Work Notes)
+#Issue#  I am not able to access the IQVIA translation tool and unable to raise the request showing access denied.
+#Resolution#  User account access settings has been modified  kindly validate and contact us back if any issues in login.
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+13-Feb-2024 04:42:27 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We have validated account settings , can you please check the access
+
+13-Feb-2024 04:37:10 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+13-Feb-2024 04:36:22 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident
+
+13-Feb-2024 04:33:34 AM - G,B Venu (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14644268,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Sugawa,Miori (1083934)",Machine Translation Portal Prod,2024-02-16 15:24,2024-02-20 15:24,2024-02-19 11:37,4869,4869,"19-Feb-2024 01:07:51 AM - Mohan,Namitha (Work Notes)
+#Issue#  The user name is ""Undefined"" and the translation function is not available. The login screen does not appear after logging out.
+#Resolution#  Connected with user and provided guidance for the same. Closing the ticket as user confirmed that the issue resolved.
+
+16-Feb-2024 06:15:33 AM - Mohan,Namitha (Work Notes)
+#Waitingfor#  Tried to contact user via teams chat, waiting for user response.
+
+16-Feb-2024 05:02:29 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+16-Feb-2024 05:02:01 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+16-Feb-2024 04:54:23 AM - Sugawa,Miori (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14682513,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-29 12:24,2024-03-04 12:24,2024-02-29 18:54,23398,23398,"29-Feb-2024 08:24:01 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <user requested for new language in XTRF>
+#Resolution# <we have added the mentioned new language to the XTRF. hence, closing the ticket>
+
+29-Feb-2024 02:02:02 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# <to add new language in XTRF>
+
+29-Feb-2024 02:01:09 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# <accepted by Sreekanth, CI and Task Tag updated>
+
+29-Feb-2024 01:54:04 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14620697,P16,"IQVIA Translation Platform Operations - Application Issue - Palmigiano,Pasquale (1172976)",Translation Services,2024-02-07 23:12,2024-02-09 23:12,2024-02-08 3:30,15513,15513,"07-Feb-2024 05:00:48 PM - S Annigeri,Shivashankar (Work Notes)
+#issue# Please provide memoQ access/credentials for two new linguists:?:| promedtranslation@gmail.com | markjp@gol.com
+#Resolution#  As per request MemoQ Vendor access has been provided to below vendor's (Associated with below Registered email ID's)
+Anne Grimes - promedtranslation@gmail.com - P002739
+Mark Phillips - markjp@gol.com - P002740
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+07-Feb-2024 12:46:23 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+07-Feb-2024 12:44:39 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and CI and task tags updated
+
+07-Feb-2024 12:42:15 PM - Palmigiano,Pasquale (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14615868,P16,"IQVIA Translation Platform Operations - Application Issue - Różycka,Eliza (1155257)",Translation Services,2024-02-06 19:25,2024-02-08 19:25,2024-02-07 14:11,67560,67560,"07-Feb-2024 03:41:04 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< user needs memoq access for production.>
+#Resolution#< we have provided the memoq access and shared the password details. hence closing this ticket>
+
+06-Feb-2024 09:06:05 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+06-Feb-2024 08:57:41 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+06-Feb-2024 08:55:03 AM - Różycka,Eliza (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
+INC14679383,P16,"IQVIA Translation Platform Operations - Application Issue - Sánchez,Javier (1140476)",Translation Services,2024-02-28 17:28,2024-03-01 17:28,2024-02-29 21:00,6926,6926,"29-Feb-2024 10:30:37 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# We need a new client creation in XTRF, Client name: Lilly Corporate Center
+The main contact is: Mete Hannah Reinbrecht <reinbrecht_hannah@lilly.com> Please make sure she does not receive any email when the contact creation.
+Please do not include this client in the VIA form drop down options for IQVIA requestors.
+#Resolution# As per request we have added the new client Lilly Corporate Center to XTRF and client access is not enabled for Mete Hannah Reinbrecht , let us know whenever access required, We will enable the same also client is not enabled for VIA request)
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+28-Feb-2024 08:54:25 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  We are waiting for internal Approval.
+
+28-Feb-2024 07:03:51 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are working on this incident
+
+28-Feb-2024 07:02:45 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident and task tag updated
+
+28-Feb-2024 06:58:59 AM - Sánchez,Javier (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14615987,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Besirevic,Edisa (1112710)",Machine Translation Portal Prod,2024-02-06 19:56,2024-02-08 19:56,2024-02-06 22:44,10048,10048,"06-Feb-2024 12:14:17 PM - A,Vaishnavi (Work Notes)
+#Issue# <User reported that MTP portal is not working fine>
+#Resolution# <We have asked user to clear cache and cookies post that user is able to use the portal with no issues, Hence closing the Incident. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+06-Feb-2024 09:32:14 AM - A,Vaishnavi (Work Notes)
+#Workingon# <Working on this request>
+
+06-Feb-2024 09:31:42 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted by Vaishnavi.A, CI and Tasktag has been updated>
+
+06-Feb-2024 09:26:50 AM - Besirevic,Edisa (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14650094,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Hughes,Rebecca (1069584)",Translation Services,2024-02-19 16:52,2024-02-21 16:52,2024-02-28 19:44,5192,5192,"28-Feb-2024 09:14:03 AM - Kottam,Sreekanth (Work Notes)
+#Issue# <user not able to use the leave feedback button>
+#Resolution# < we have reverted the changes in at user account data, now user able to see the leave feedback button. hence, closing the ticket>
+
+19-Feb-2024 07:49:07 AM - Kottam,Sreekanth (Work Notes)
+#Waitingfor# < we have raised a case with XTRF, we are working on it. once we get the update from XTRF we will update you the same >
+
+19-Feb-2024 06:32:58 AM - Kottam,Sreekanth (Work Notes)
+#Workingon# < working on the feedback issue ticket >
+
+19-Feb-2024 06:31:13 AM - Kottam,Sreekanth (Work Notes)
+#Accepted# < accepted to work on the ticket >
+
+19-Feb-2024 06:22:36 AM - Hughes,Rebecca (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14636102,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Mead,Sally (1109876)",Machine Translation Portal Prod,2024-02-14 3:34,2024-02-16 3:34,2024-02-15 4:09,5339,5339,"14-Feb-2024 05:39:13 PM - Ambati,Shekhar Reddy (Work Notes)
+#Issue# <User facing an issue with  MTP source and target language>
+#Resolution# <we had advised to user your screenshot it is showing Undefined state,please clear the cookies,History and refresh the MTP url and try it and user confirmed in teams there is no issues>
+
+13-Feb-2024 06:33:16 PM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <i  have observed your screenshot it is showing Undefined state,please clear the cookies,History and  refresh the MTP url and try it>
+
+13-Feb-2024 06:29:37 PM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+13-Feb-2024 06:27:04 PM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted#  <accepted by shekhar Reddy>
+
+13-Feb-2024 05:04:17 PM - Mead,Sally (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Ambati,Shekhar Reddy (1092962)"
+INC14645274,P16,"IQVIA Translation Platform Operations - Application Issue - Chavan,Rahul (1160573)",Translation Services,2024-02-16 20:26,2024-02-20 20:26,2024-02-19 14:21,5913,5913,"19-Feb-2024 03:51:02 AM - S Annigeri,Shivashankar (Work Notes)
+#Issue# Past one hour my XTRF portal is very slow and logging off continuously. I have already clear my browser data (cookies, history), Restart the system several time but issue is still there.
+#Resolution# Please use Private/incognito browser window, After clearing the temp files/cookies form web browser XTRF is working normal, 
+On any issues or concerns write to : TMSProductionSupport@quintiles.com
+
+16-Feb-2024 11:34:55 AM - S Annigeri,Shivashankar (Work Notes)
+#Waitingfor#  Can you please try to check in Private/incognito window on browser and let us know  if any issues
+
+16-Feb-2024 09:59:46 AM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+16-Feb-2024 09:58:29 AM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident CI | task details updated
+
+16-Feb-2024 09:56:22 AM - Chavan,Rahul (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14605648,P16,"IQVIA Translation Platform Operations - Application Issue - Pérez,Clara (1148803)",Translation Services,2024-02-02 17:23,2024-02-06 17:23,2024-02-06 10:00,36367,189297,"05-Feb-2024 11:30:19 PM - Kasula,Abhilash (Work Notes)
+#Issue# New XTRF Category needs to be create and update in vendors profile
+#Resolution# The request has been completed and hence closing this ticket
+
+04-Feb-2024 11:28:50 AM - Kasula,Abhilash (Work Notes)
+#Waitingfor# New XTRF Category has been created and updated in vendors profile, waiting for Clara confirmation to close the ticket.
+
+03-Feb-2024 12:08:43 AM - Kasula,Abhilash (Work Notes)
+#Workingon# Working on it
+
+02-Feb-2024 07:58:48 AM - A,Vaishnavi (Work Notes)
+#Accepted# <Accepted, CI and Tasktag has been updated>
+
+02-Feb-2024 06:53:53 AM - Pérez,Clara (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kasula,Abhilash (1030722)"
+INC14658869,P16,Transaction step  in Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability' failed: No element was clicked.,Translation Services,2024-02-22 0:59,2024-02-24 0:59,2024-02-23 4:19,2912,2912,"22-Feb-2024 05:49:44 PM - Sharma,Ashutosh (Work Notes)
+#Issue#< Transaction step  in Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability' failed: No element was clicked.>
+#Resolution#< Mentioned Application URL "" https://translations-uat.quintiles.com/xtrf/ "" is UP and loading fine.Hence closing the ticket.>
+
+21-Feb-2024 03:18:24 PM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+21-Feb-2024 03:11:16 PM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+21-Feb-2024 03:10:22 PM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+21-Feb-2024 02:33:58 PM - Magupalli,Ramesh (Work Notes)
+Hello Team,
+
+URL Loading Fine and taking long time to get result 
+Unable to fetch the expected result 
+
+kindly check
+PFA
+
+URL- https://translations-uat.quintiles.com/xtrf/
+
+21-Feb-2024 02:29:52 PM - Account,Integration (Work Notes)
+Alert Summary: 0 Critical, 1 Warning, 0 Resolved 
+-------------------------------------------------------- 
+
+Alert: 1 / 1
+Status: Warning
+Source: solarwinds_v2.solarwinds_orion
+Description: Transaction step  in Core_APPIANCLOUD-UAT_Availability from Dublin1-2019 is Down. Reason: Step 'IQVIA - UAT - XTRF Home Portal Availability' failed: No element was clicked.
+Started At: Wed Feb 21 2024 11:18:23 GMT-0800 (PST)
+Configuration Item: Translation Services
+Application: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019
+Object: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019
+Instance: Core_APPIANCLOUD-UAT_Availability from Dublin1-2019::2/21/2024::RuleTR2SV
+Sourcegroup: OrionWPMService
+
+--------------------------------------------------------
+[code]BigPanda Automated Comment<br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65d64c7fca01c963d0d74ab8"" target=""_blank"">Incident Link</a><br><a href=""https://a.bigpanda.io/#/app/overview/5f7c94e78508352a18f32547/active/incidents/65d64c7fca01c963d0d74ab8/timeline"" target=""_blank"">Incident Timeline Link</a><br><a href=""http://bigp.io/5e72a62c5aae3f4c"" target=""_blank"">Incident Preview Link</a>[/code]
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14625860,P16,"IQVIA Machine Translations Platform Operations Application Issue -  Linguamatics translate - Sugimoto,Aiko (1055704)",Machine Translation Portal Prod,2024-02-09 14:10,2024-02-13 14:10,2024-02-13 18:07,5202,5202,"13-Feb-2024 07:37:42 AM - A,Vaishnavi (Work Notes)
+#Issue# <User reported translation is not happening for mentioned file>
+#Resolution# <We changed the engine from Google to DeepL post that translation happened and the translated file has been shared to user. FYI, Development team is working on fixing this bug with Google engine in the upcoming release. On any issues kindly write back to TMS Production Support <TMSProductionSupport@quintiles.com>>
+
+09-Feb-2024 05:06:42 AM - Ambati,Shekhar Reddy (Work Notes)
+#Waitingfor# <can you please share the source document,we will check in MTP portal>
+
+09-Feb-2024 04:05:22 AM - Ambati,Shekhar Reddy (Work Notes)
+task tag updated
+
+09-Feb-2024 03:57:04 AM - Ambati,Shekhar Reddy (Work Notes)
+#Workingon# <we are working on it>
+
+09-Feb-2024 03:48:31 AM - Ambati,Shekhar Reddy (Work Notes)
+updated configuration item
+
+09-Feb-2024 03:47:16 AM - Ambati,Shekhar Reddy (Work Notes)
+#Accepted#  <accepted by Shekhar Reddy>
+
+09-Feb-2024 03:40:00 AM - Sugimoto,Aiko (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"A,Vaishnavi (1126169)"
+INC14661289,P16,"IQVIA Translation Platform Operations - Application Issue - Waddell,Dominic (1151885)",Translation Services,2024-02-22 15:52,2024-02-26 15:52,2024-02-27 21:09,89699,89699,"27-Feb-2024 10:39:37 AM - Mohan,Namitha (Work Notes)
+#Issue#  A client is searching for a project from 2022 which would have been archived. They do not have a project number, but only a protocol number and the name of the client who submitted the project.
+MS200569_0003
+Lerato Mphuti
+#Resolution#  With the provided information we have found few project and shared with user the same. As user was looking for a particular document, we were not able to share the same with the provided information, Informed user the same. Closing the ticket as user confirmed to close the same.
+
+23-Feb-2024 06:17:54 AM - Mohan,Namitha (Work Notes)
+#Waitingfor# < Waiting for user availability to check more on this issue. >
+
+22-Feb-2024 05:37:30 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+22-Feb-2024 05:27:05 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+22-Feb-2024 05:22:55 AM - Waddell,Dominic (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14636562,P16,"IQVIA Translation Platform Operations - Application Issue - Baculfo,Sheena (1137215)",Translation Services,2024-02-14 9:35,2024-02-16 9:35,2024-02-14 15:30,21285,21285,"14-Feb-2024 05:00:16 AM - Kottam,Sreekanth (Work Notes)
+#Issue# < tcerts not generated >
+#Resolution# < we have tried to generate the tcerts by restarting tcert job, meanwhile user has created tcerts manually and closed the project, hence closing the ticket. >
+
+13-Feb-2024 11:28:54 PM - Kottam,Sreekanth (Work Notes)
+#Workingon# < to generate tcert >
+
+13-Feb-2024 11:10:12 PM - Kottam,Sreekanth (Work Notes)
+#Accepted# < to work on the ticket >
+
+13-Feb-2024 11:05:31 PM - Baculfo,Sheena (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Kottam,Sreekanth (1157009)"
+INC14642418,P16,Please can you check my  XTRF Production profile? as in-house jobs not being automatically assigned .,Translation Services,2024-02-16 0:27,2024-02-20 0:23,2024-02-16 0:41,833,833,"15-Feb-2024 02:11:27 PM - S Annigeri,Shivashankar (Work Notes)
+#issue#  Please can you check my  XTRF Production profile? as in-house jobs not being automatically assigned .
+#Resolution# PM/Vendor settings has been modified and Memoq access also validated after account validation, PM access and in-house
+Jobs are assigning are working normal.
+Kindly write back to us if any concern.  TMSProductionSupport@quintiles.com
+
+15-Feb-2024 02:00:22 PM - S Annigeri,Shivashankar (Work Notes)
+#Workingon# We are checking on this incident
+
+15-Feb-2024 01:57:35 PM - S Annigeri,Shivashankar (Work Notes)
+#Accepted# Accepted the incident CI | task details updated
+
+
+
+",TMS Production Support,"S Annigeri,Shivashankar (1109033)"
+INC14674391,P16,"IQVIA Translation Platform – Application Issue - General request or issue with ITP - Nakatsuka,Chikako (766555)",Translation Services,2024-02-27 14:24,2024-02-29 14:24,2024-03-01 14:51,105191,105191,"01-Mar-2024 04:21:32 AM - Sharma,Ashutosh (Work Notes)
+#Issue#<XTRF feedback button is not available.>
+#Resolution#< checked with user issue is resloved, after changing the manage setting in XTRF it will work , Hence closing the ticket.>
+
+28-Feb-2024 09:07:49 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Need to have call with user ,when available over MS teams >
+
+27-Feb-2024 04:44:37 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+27-Feb-2024 04:17:45 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+27-Feb-2024 03:54:39 AM - Nakatsuka,Chikako (Work Notes)
+Please see the information VIA tab for more information
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14675986,P16,TCERT not generating for project 2024/13216,Translation Services,2024-02-27 21:12,2024-02-29 21:05,2024-02-27 21:15,184,184,"27-Feb-2024 10:45:43 AM - Mohan,Namitha (Work Notes)
+#Issue#  Tcert is not getting generated for project 2024/13216
+#Resolution# :Tcert  generated for project 2024/13216 after restarting the Tcert job manually . Informed user the same. Hence closing the ticket.
+
+27-Feb-2024 10:43:36 AM - Mohan,Namitha (Work Notes)
+#Workingon# <working on this ticket>
+
+27-Feb-2024 10:43:12 AM - Mohan,Namitha (Work Notes)
+#Accepted# <Accepting this ticket>
+
+27-Feb-2024 10:42:39 AM - Mohan,Namitha (Work Notes)
+TCERT not generating for project 2024/13216
+
+
+
+",TMS Production Support,"Mohan,Namitha (1125557)"
+INC14641044,P16,"IQVIA Translation Platform Operations - Application Issue - Mahesh,Yerremmagari (1167579)",Translation Services,2024-02-15 17:18,2024-02-19 17:18,2024-02-23 3:24,100347,100347,"22-Feb-2024 04:54:18 PM - Sharma,Ashutosh (Work Notes)
+#Issue#< Please provide the xliff files for testing>
+#Resolution#< We have shared XLIFF fils to user as per the attched excel project from memoq for all classes , Hence closing the ticket.>
+
+16-Feb-2024 10:41:15 AM - Sharma,Ashutosh (Work Notes)
+#Waitingfor#< Waiting for the status>
+
+15-Feb-2024 06:59:41 AM - Sharma,Ashutosh (Work Notes)
+#Workingon#< Working on this ticket>
+
+15-Feb-2024 06:59:03 AM - Sharma,Ashutosh (Work Notes)
+#Accepted#< Accepting this ticket>
+
+15-Feb-2024 06:48:48 AM - Mahesh,Yerremmagari (Work Notes)
+For full details, please see the Information from VIA tab.
+
+
+
+",TMS Production Support,"Sharma,Ashutosh (1112098)"
+INC14670755,P16,Flat file ingestion,Translation Services,2024-02-26 17:37,2024-02-28 17:35,2024-02-27 16:10,81136,81136,"27-Feb-2024 05:40:07 AM - Penumalla,Manikanta (Work Notes)
+#Issue#< Flat file ingestion to DWH.>
+#Resolution#< we have ingested the ""UPT 1 matrix mar 21"" and UPT 1 matrix  flat file to DWH and hence closing this ticket>
+
+26-Feb-2024 07:09:21 AM - Penumalla,Manikanta (Work Notes)
+#Workingon#< Working on this ticket>
+
+26-Feb-2024 07:08:52 AM - Penumalla,Manikanta (Work Notes)
+#Accepted#< Accepting this ticket>
+
+26-Feb-2024 07:07:52 AM - Penumalla,Manikanta (Work Notes)
+Hi Mani,
+
+A couple of issues with the flat file load, it looks like ""UPT 1 matrix mar 21"" was loaded as UPT 1 matrix as both rates are the same.
+
+The rates are also capped at 2 decimal points, I have reloaded both files to extend the decimal points.
+
+Please could you reload both files again.
+
+Kind regards
+
+Rayid Haniff
+Business Analyst Team Lead
+IQVIA Translation Services
+ 
+Learn more about IQVIA 
+
+| M: +447342000280| | E: rayid.haniff@iqvia.com
+
+
+
+
+",TMS Production Support,"Penumalla,Manikanta (1015775)"
